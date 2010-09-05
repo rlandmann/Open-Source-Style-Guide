@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Manual_for_Writers_and_Publishers-XML_Tags">
+	<title>XML Tags</title>
+	 <para>
+		It's not always logical which tag to use for something. I'm trying to help. You may disagree with some of the following, so feel free to ask about it and get it changed to something sensible. This is my thinking out loud and somewhere to keep things. It's not gospel or a rule book.
+	</para>
+	 <para>
+		As always, refer to the docbook site for notes, other attributes and usage instructions. http://www.docbook.org/tdg/en/html/docbook.html
+	</para>
+	 <variablelist>
+		<varlistentry>
+			<term>&#60;citetitle&#62;</term>
+			 <listitem>
+				<para>
+					Use citetitle when referring to an external book.
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;cmdsynopsis&#62;</term>
+			 <listitem>
+				<para>
+					This is a wrapper. Refer to the docbook website for how to use this. Essentially it's used for documenting the syntax of commands (rather than actual examples), and listing the various possible arguments, their class, etc.
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;command&#62;</term>
+			 <listitem>
+				<para>
+					commands
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							(e.g.) ls, top, find, mount, bash
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Other cases as well may require the use of this tag if nothing better presents itself.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Don't use this tag for things like filenames, directories, etc.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Note the use of this tag for /bin/bash - don't use &#60;application&#62; in this case. This is used for larger software packages, e.g., Inkscape, acroread.
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;filename&#62;</term>
+			 <listitem>
+				<para>
+					files and directories 
+					<itemizedlist>
+						<listitem>
+							<para>
+								Use &#60;package&#62; where appropriate, however.
+							</para>
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;guilabel&#62;</term>
+			 <listitem>
+				<para>
+					GUI objects
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Apart from traditional usage as described in the ?DocBook Guide, use this for dialog boxes, screens, and windows that appear on-screen as well.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Do not use &#60;interface&#62;; as of ?DocBook v3.0 it is obsolete.
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;literal&#62;</term>
+			 <listitem>
+				<para>
+					Attribute values
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Values of attributes, etc. For example, the nsslapd-accesslog-level attribute can have values of 0, 4, 256, and beyond. I used &#60;literal&#62; tags for these values.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							&#60;option&#62; is a possibility as well, if you think about attributes/parameters being on or off. If you find a better one, please let me know.
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;option&#62;</term>
+			 <listitem>
+				<para>
+					command options, etc.
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							On occasion you might need to list a number of options for a command or something similar. These should be tagged as options, not commands.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Note that this is not used for actual command examples. Do not create an example such as "ps aux | grep bash" and tag the individual components. Tag the entire command as &#60;command&#62;. See also &#60;cmdsynopsis&#62;
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							This tag does not mean "optional"
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;parameter&#62;</term>
+			 <listitem>
+				<para>
+					Parameters of any kind
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Use &#60;parameter&#62; for attributes, (as distinct from object classes, for which I used &#60;classname&#62;).
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Also for command arguments, where (for example) you need to list and describe command arguments. I haven't found anything better yet.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							I also used &#60;parameter class="option"&#62; for allow and deny permissions/privileges.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							&#60;parameter role="entry"&#62;cn=kerberos&#60;/parameter&#62;
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;programlisting&#62;</term>
+			 <listitem>
+				<para>
+					Use this for code samples (anything that is typed into a text editor) ... and then use &#60;screen&#62; for the output.
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;property&#62;</term>
+			 <listitem>
+				<para>
+					I started using this when referring to (e.g.,) Group Name, GID, and UID of users in the IPA documentation.
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;returnvalue&#62;</term>
+			 <listitem>
+				<para>
+					Fairly obvious I guess, but I've seen it marked up as various other things. It just refers to the value returned by a function or something similar, with typical values being 0 (zero) or -1, etc.
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;screen&#62;</term>
+			 <listitem>
+				<para>
+					For anything that is shown on a screen ... usually output from a command. Do not use for code samples.
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;systemitem&#62;</term>
+			 <listitem>
+				<para>
+					This tag supports a range of classes that can be used for various things, such as protocols, resources, and user account names. Also use for less easily-definable objects, such as PAM and kernel modules, with 'role="module"'.
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Example: &#60;systemitem class="username"&#62;root&#60;/systemitem&#62;
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Example: &#60;systemitem class="server"&#62;europe.example.com&#60;/systemitem&#62;
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Example: &#60;systemitem role="module"&#62;pam_mkhomedir&#60;/systemitem&#62;
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Example: &#60;systemitem class="resource" nfs/&#60;FQDN&#62;&#60;/systemitem&#62;
+						</para>
+					</listitem>
+
+				</itemizedlist>
+				 <para>
+					Note:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							These examples are context dependent. In a different case, the "server" class might be "domainname".
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							For services (e.g., httpd, etc.), use class="service" rather than class="daemon". Trying to determine when to use one rather than the other in doc at present doesn't appear to be worth the effort...
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>&#60;type&#62;</term>
+			 <listitem>
+				<para>
+					Data types for parameters
+				</para>
+			</listitem>
+		</varlistentry>
+	</variablelist>
+
+</chapter>
+

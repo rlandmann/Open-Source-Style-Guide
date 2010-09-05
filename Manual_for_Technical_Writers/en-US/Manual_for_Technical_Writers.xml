@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<book status="draft">
+	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Word_Usage.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Grammar.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Avoiding_Slang.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Cross_References.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Standard_Terminology.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="XML_Tags.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Resources.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <index />
+</book>
+

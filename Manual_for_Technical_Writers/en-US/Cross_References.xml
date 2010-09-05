@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Manual_for_Writers_and_Publishers-Cross_References">
+	<title>Cross References</title>
+	 <para>
+		This section contains suggestions on how to use cross-references in the most effective way, that is, so that it works for the reader, rather than the author. Formatting cross-references is not described in this section.
+	</para>
+	<para>
+		In the dark days of pure print documentation, cross-references pointed readers to additional or related information that existed elsewhere in the physical printed book; on other pages. The readers had to physically turn pages to find the referenced page, so authors and editors and proofreaders developed a certain caution about scattering cross-references through the text. Despite the ease of use and creation of cross-references or links in online documents today, the author must still do the work for the reader. It is still the author who must do the heavy lifting and arrange the information so that the reader can absorb it in the smoothest possible fashion. Forcing the reader to leap from link to link could indicate that the author is writing for their own ease, and not for the good of the reader.
+	</para>
+	<para>
+		The Additional Information test — Is the cross-reference pointing to vital information or additional information?
+	</para>
+	<para>
+		A cross-reference should always point to additional information, not core information that the reader needs to perform the task at hand. For example, in a procedure to configure an application, do not merely provide a link to the appendix where the correct naming conventions are described. Give the reader examples and explanations of a valid filename, and at the end of the procedure provide the link to the appendix.
+	</para>
+	<para>
+		The Page Test — Is the additional information on a different page?
+	</para>
+	<para>
+		Do not cross-reference to text, sections, diagrams or tables on the same page. Use the power of words to direct the readers attention to the object. For example, "Table 1.1 displays valid return values" does not need an embedded link. If it exists, the readers will succumb to the temptation to click the link, and confusion will ensue as the same page is displayed.
+	</para>
+	<para>
+		Do not become a linkaholic!
+	</para>
+	<para>
+		The Reverse Test — Is the cross-reference pointing forwards or backwards in the document?
+	</para>
+	<para>
+		Prescriptive writing must always take the reader from the known to the unknown, so ideally, cross-references must always point backward. For example, a cross reference on page 50 that points back to page 25 meets the reverse test. A cross-reference on page 50 to page 75 fails this test. If it appears impossible to follow this rule, stop and think about the structure of the information. Does the reader really need to know this additional information right now? If yes, the information is not additional information, but vital information. Do the work and write the words to include the information. If not, that is, this is a "nice to know", point the reader back to the current page, page 50, from page 75.
+	</para>
+	<para>
+		Note: This rule does not apply to additional information in Appendices. For example, after describing an error message, it is acceptable to cross-reference to the Appendix E, which contains all the error messages. It is not acceptable to immediately point the reader to Appendix E and expect them to sort it out themselves.
+	</para>
+	<para>
+		The Information/Link Ratio — Does the paragraph/section consist largely of links?
+	</para>
+	<para>
+		In running text, there should not be more than a couple of links per paragraph. There should not be links in every paragraph, and there certainly must not be links in titles, subheadings, figure or table captions. Cross-references interrupt the flow of thought, and can actively interfere with the absorption of information. If the reader needs a lot of additional information, rethink the structure of the section, and enrich the quality of the information. Do not let the cross-references overpower the message. A solution is to add a sentence to the end of the section indicating where more information is available.
+	</para>
+	<para>
+		Note: Lists can be an exception, but try to provide the reader with a descriptive phrase or sentence for each cross-referenced item, as well as a lead-in and concluding sentence for the paragraph that contains the list.
+	</para>
+	<para>
+		The Repeatability Test — Does the information have to be repeated?
+	</para>
+	<para>
+		This is a hard one, and one that many authors abhor. Often the answer is yes. If the information is vital, and needs to appear in multiple places, it just has to be done. It's not a crime. In some circumstances, like online help, the reader wants the answer immediately. Do not force even one extra click on them. In a safety situation, it may be the only chance the reader has to find critical information quickly. Any vital information, that is not more than a couple of paragraphs, (or half a page, or 5 rows of a table) can be repeated rather than cross-referenced to.
+	</para>
+	<para>
+		Cross-referencing is a good servant but a poor master. Content still rules!
+	</para>
+</chapter>
+

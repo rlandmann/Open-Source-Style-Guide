@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Manual_for_Writers_and_Publishers-Resources">
+	<title>Resources</title>
+	 <para>
+		Books, websites, and people for you to consult on your quest to create the perfect document.
+	</para>
+	 <bibliography>
+		<bibliodiv>
+			<title>Dictionaries of American English</title>
+			 <biblioentry>
+				<title>The American Heritage Dictionary of the English Language, Fourth Edition</title>
+				 <publisher>
+					<publishername>
+						Houghton Mifflin
+					</publishername>
+					<address>
+						<city>Boston</city>
+					</address>
+				</publisher>
+				 <pubdate>2009</pubdate>
+				 <bibliomisc>An online edition is accessible free of charge through http://www.thefreedictionary.com/</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>Merriam–Webster Online</title>
+				 <bibliosource>http://www.merriam-webster.com/</bibliosource> <bibliomisc>There is no charge for access to a basic, abridged version. Access to the unabridged version is available at $US 30 per year</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>The New Oxford American Dictionary, Second Edition</title>
+				 <publisher>
+					<publishername>
+						Oxford University Press
+					</publishername>
+				</publisher>
+				 <pubdate>2001</pubdate>
+			</biblioentry>
+			<biblioentry>
+				<title>The Oxford American Dictionary of Current English</title>
+				 <publisher>
+					<publishername>
+						Oxford University Press
+					</publishername>
+				</publisher>
+				 <pubdate>2002</pubdate>
+			</biblioentry>
+			<biblioentry>
+				<title>The Oxford Dictionary of American Usage and Style</title>
+				 <publisher>
+					<publishername>
+						Oxford University Press
+					</publishername>
+				</publisher>
+				 <pubdate>2000</pubdate>
+			</biblioentry>
+
+		</bibliodiv>
+		 <bibliodiv>
+			<title>Dictionaries of IT terms</title>
+			 <biblioentry>
+				<bibliosource>http://www.computeruser.com/resources/dictionary/index.html</bibliosource>
+			</biblioentry>
+			<biblioentry>
+				<bibliosource>http://webopedia.internet.com/</bibliosource>
+			</biblioentry>
+			<biblioentry>
+				<title>A Dictionary of Computing, Sixth Edition</title>
+				 <publisher>
+					<publishername>
+						Market House Books
+					</publishername>
+				</publisher>
+				 <pubdate>2008</pubdate>
+			</biblioentry>
+			<biblioentry>
+				<title>A Dictionary of the Internet</title>
+				 <author>
+					<firstname>Darrell</firstname>
+					 <surname>Ince</surname>
+				</author>
+				 <pubdate>2009</pubdate>
+			</biblioentry>
+		</bibliodiv>
+		<bibliodiv>
+			<title>General style guides</title>
+			<biblioentry>
+				<title>AP Stylebook</title>
+				 <publisher>
+					<publishername>
+						The Associated Press
+					</publishername>
+					<address>
+						<city>New York</city>
+					</address>
+				</publisher>
+				 <pubdate>2009</pubdate>
+				 <bibliomisc>Online version available at http://http://www.apstylebook.com — subscription $US 25 per year</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>Publication Manual of the American Psychological Association, Sixth Edition</title>
+				 <publisher>
+					<publishername>
+						American Psychological Association
+					</publishername>
+					<address>
+						<city>Washington DC</city>
+					</address>
+				</publisher>
+				 <pubdate>2009</pubdate>
+			</biblioentry>
+			<biblioentry>
+				<title>The Chicago Manual of Style, 15th Edition</title>
+				 <publisher>
+					<publishername>
+						The University of Chicago Press
+					</publishername>
+					<address>
+						<city>Chicago</city>
+					</address>
+				</publisher>
+				 <pubdate>2003</pubdate>
+				 <bibliomisc>Online version available at http://www.chicagomanualofstyle.org/home.html — subscription $US 30 per year</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>MLA Handbook for Writers of Research Papers, Seventh Edition</title>
+				 <publisher>
+					<publishername>
+						The Modern Language Association of America
+					</publishername>
+					<address>
+						<city>New York</city>
+					</address>
+				</publisher>
+				 <pubdate>2009</pubdate>
+				 <bibliomisc>Available from http://www.mlahandbook.org for $US 22, which includes access to the online version of the guide for the lifetime of the Seventh edition</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>Working With Words: A Concise Handbook for Media Writers and Editors, Third Edition.</title>
+				 <publisher>
+					<publishername>
+						St. Martin's Press
+					</publishername>
+					<address>
+						<city>New York</city>
+					</address>
+				</publisher>
+				 <pubdate>1997</pubdate>
+			</biblioentry>
+		</bibliodiv>
+		<bibliodiv>
+			<title>IT style guides</title>
+			<biblioentry>
+				<title>Apple Publications Style Guide</title>
+				 <publisher>
+					<publishername>
+						Apple
+					</publishername>
+					<address>
+						<city>Cupertino</city>
+					</address>
+				</publisher>
+				 <pubdate>2008</pubdate>
+				 <bibliomisc>PDF version available at no cost online from http://developer.apple.com/mac/library/documentation/?UserExperience/Conceptual/?APStyleGuide/APSG_2008.pdf</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>IBM Style, Sixth Edition</title>
+				 <publisher>
+					<publishername>
+						IBM
+					</publishername>
+				</publisher>
+				 <pubdate>2004</pubdate>
+				 <bibliomisc>At various times, a PDF version of this book has been available at no charge online; most recently at http://www-03.ibm.com/easy/page/1387/$File/IBM_Style.pdf — this link is not working as of October 2009</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>Microsoft Manual of Style for Technical Publications, Third Edition</title>
+				 <publisher>
+					<publishername>
+						Microsoft
+					</publishername>
+					<address>
+						<city>Redmond</city>
+					</address>
+				</publisher>
+				 <pubdate>2004</pubdate>
+				 <bibliomisc>Previously, an electronic version of this book was available at no charge online as a Compiled HTML Help (CHM) file from the Microsoft website; this is not presently available in October 2009</bibliomisc>
+			</biblioentry>
+			<biblioentry>
+				<title>Read Me First! A Style Guide for the Computer Industry</title>
+				 <publisher>
+					<publishername>
+						Sun Microsystems
+					</publishername>
+					<address>
+						<city>Mountain View</city>
+					</address>
+				</publisher>
+				 <pubdate>1996</pubdate>
+			</biblioentry>
+			<biblioentry>
+				<title>Wired Style: Principles of English Usage in the Digital Age</title>
+				<publisher>
+					<publishername>
+						Broadway Books
+					</publishername>
+					<address>
+						<city>New York</city>
+					</address>
+				</publisher>
+				 <pubdate>1999</pubdate>
+			</biblioentry>
+		</bibliodiv>
+
+	</bibliography>
+</chapter>
+

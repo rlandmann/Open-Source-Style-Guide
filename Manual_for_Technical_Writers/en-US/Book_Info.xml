@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<bookinfo id="book-Manual_for_Writers_and_Publishers-Manual_for_Writers_and_Publishers">
+	<title>Manual for Technical Writers</title>
+	 <subtitle>Documenting software projects and products</subtitle>
+	 <productname>Open-Source Style Guide</productname>
+	 <productnumber></productnumber>
+	 <edition>0</edition>
+	 <pubsnumber>0</pubsnumber>
+	 <abstract>
+		<para>
+			A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file.
+		</para>
+
+	</abstract>
+	<!-- <corpauthor>
+		<inlinemediaobject>
+			<imageobject>
+				<imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
+			</imageobject>
+
+		</inlinemediaobject>
+
+	</corpauthor> -->
+	 <xi:include href="Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</bookinfo>
+

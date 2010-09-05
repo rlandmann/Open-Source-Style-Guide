@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Manual_for_Writers_and_Publishers-Avoiding_Slang">
+	<title>Avoiding Slang</title>
+	<para>
+		We write software documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straight-forward as possible, it is necessary to avoid slang and other culture-specific terminology. This page is an attempt to identify commonly-used slang terms and phraseology, and to provide alternatives.
+	</para>
+	<glossary><glossentry><glossterm>"anything you/they like"</glossterm> <glossdef>
+	<para>
+		This is probably readily understood but shouldn't appear in formal documentation.
+	</para>
+	 <para>
+		"They can also use the slapi_register_plugin() call to register any kind of plug-in they like."
+	</para>
+	 <para>
+		I rewrote it to be "...to register any other kind of plug-in."
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Check this site</glossterm> <glossdef>
+	<para>
+		Understood to mean "have a look at this website". The standard phraseology is something like "Refer to www.somewhere.com for more information". It is generally better to avoid "check" because it has so many meanings. Refer to the StandardTerminology page for more information.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>eat your own dogfood</glossterm> <glossdef>
+	<para>
+		Developer-speak. It means to use your own products. You can get a detailed description at http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>dig deeper</glossterm> <glossdef>
+	<para>
+		Also - "delve deeper". "Visit the following web link to dig deeper into [subject]...". Using "dig deeper" may translate awkwardly. Instead, consider rewording to the suggested referral style in "check this", or to something like this: "For detailed information regarding [subject], refer to [internal link/external link]".
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>double-edged sword</glossterm> <glossdef>
+	<para>
+		Also - "double-bladed sword". If something is described as a double-edged sword, it indicates that it has two opposing behaviours or consequences. Instead, state that it can have unexpected consequences, or that the positive result might be offset by the negative result.
+	</para>
+	</glossdef></glossentry> <glossentry id="have_a_crack_at"><glossterm>have a crack at</glossterm> <glossdef>
+	<para>
+		Have a crack at and jump right in are closely related in meaning as they imply to "get started or give it a try". Alternatives for these are "start/try/begin" and will depend on the context of what's being discussed.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Fibs</glossterm> <glossdef>
+	<para>
+		A fib is "small lie", also known as a "white lie". This appeared in one of the GLS books: "this command tells fibs". Use something like "The output of this command can be misleading".
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Flying by the seat of your pants</glossterm> <glossdef>
+	<para>
+		Generally understood to mean "reacting to events as they occur". Difficult to offer alternatives without context
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>frown upon</glossterm> <glossdef>
+	<para>
+		"To frown upon" means to hold in low regard, not to approve of, etc. This translates to (and should have been written as) ".. the use of session context is not recommended..." (or words to that effect).
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>fuzzy (search)</glossterm> <glossdef>
+	<para>
+		1. Even though "fuzzy" is slang, it's common when referring to searches, especially in databases. If you do a fuzzy search for "Smith" you will probably also get "Smyth", because it sounds the same. The use of "fuzzy" is valid in this context.
+	</para>
+	 <para>
+		Note the difference between this and "wildcard" searches: "Sm?th" could return "Smith", "Smyth", "Smeth", or even "Smrth".
+	</para>
+	 <para>
+		2. Don't use "fuzzy" to refer to something that is not clear, such as an image, a concept, an idea, etc. For example, "He was a bit fuzzy on the details" is not valid.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>jump right in</glossterm> <glosssee otherterm="have_a_crack_at"></glosssee></glossentry> <glossentry><glossterm>Kettle of fish</glossterm> <glossdef>
+	<para>
+		Commonly used in the expression "a different kettle of fish", to mean, "that's a different matter (altogether)". Depending on the context, try to use "topic", "subject", "matter", or something similar.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>pain in the backside</glossterm> <glossdef>
+	<para>
+		Nobody should ever write this or anything like it in any distributable documentation. Use something like "problematic", "difficult", etc., as appropriate.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>in a pinch</glossterm> <glossdef>
+	<para>
+		Under a tight schedule, hard pressed to achieve something.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>right before doing something</glossterm> <glossdef>
+	<para>
+		It's better to use "immediately before doing something" or otherwise write around the phrase.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>"root your server in the /serverRoot directory"</glossterm> <glossdef>
+	<para>
+		This is not very elegant. Be aware of the multiple meanings of words. Try something like "Use the /serverRoot directory as the root directory for your server". 
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>shy of</glossterm> <glossdef>
+	<para>
+		Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark", meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have less than the minimum number required. Avoid this terminology and use more easily understood terms; it will help our translators and also those reading our English documentation who are unfamiliar with such slang.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>under the covers</glossterm> <glossdef>
+	<para>
+		This refers to something being out of plain sight or not immediately obvious. For example, you might only see the results of some action or command, but what happens "under the covers" is what is going on in the background, that you can't see or are not aware of, to make that action of command possible.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>virtual elephants</glossterm> <glossdef>
+	<para>
+		This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture". It falls into the same category as "skeletons in the closet", "dark horse", "black sheep", etc. Use descriptions, adjectives, etc., that aren't specific to a particular culture or locale. Refer to http://en.wikipedia.org/wiki/Blind_Men_and_an_Elephant for more information.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>over the wire</glossterm> <glossdef>
+	<para>
+		Commonly used in expressions like "password information is sent in plain text over the wire", meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the Internet, or whatever). You probably don't need to say it at all. "Sent/transmitted in plain text" is fine.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Neologisms (Invented words)</glossterm> <glossdef>
+	<para>
+		The English language is full of these. Some of them are useful, some of them are less so, others are just painful, difficult to translate, and should be avoided. Many of them are the result of creating nouns from verbs, verbs from nouns, and adjectives from just about anything. Unless a particular word has been in use for some time and has been generally accepted into common English (for example, "kerberized", which refers to a Kerberos-aware application), try to avoid these neologisms. If necessary, reword or restructure your sentences.
+	</para>
+	 <para>
+		Examples
+	</para>
+	 <para>
+		* "This feature allows synchronization of adds, deletes, and changes ..."
+	</para>
+	 <para>
+		o This sentence has converted three verbs to nouns. A better structure might be, "This feature allows the synchronization of add, delete, and change operations..."
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Ready to Rumble</glossterm> <glossdef>
+	<para>
+		In US English slang, being "ready to rumble" means you are "ready to go ahead" or "ready to start".
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>shoot yourself in the foot</glossterm> <glossdef>
+	<para>
+		To "shoot yourself in the foot" indicates that you have done something to harm your own cause, or acting against your own best interests. Just cut out the sentence - it should be self-evident from the surrounding information. 
+	</para>
+	</glossdef></glossentry> </glossary>
+</chapter>
+

@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Manual_for_Writers_and_Publishers-Design">
+	<title>Design</title>
+	 <section id="sect-Manual_for_Writers_and_Publishers-Design-Heading_Styles">
+		<title>Heading Styles</title>
+		<para>
+			[discussion of title case goes here]
+		</para>
+	</section>
+	
+	<section id="sect-Manual_for_Writers_and_Publishers-Design-Screenshots">
+		<title>Screenshots</title>
+		<para>
+			[guide to screenshots]
+		</para>
+	</section>
+	
+	<section id="sect-Manual_for_Writers_and_Publishers-Design-Diagrams">
+		<title>Diagrams</title>
+		<para>
+			[guide to drawing diagrams]
+		</para>	
+
+	</section>
+	
+	<section id="sect-Manual_for_Writers_and_Publishers-Design-Example_Domain_References">
+		<title>Example Domain References</title>
+		<para>
+			If you are showing an example that involves domain names, use the reserved top level DNS names: example.com, example.org, or example.net.
+		</para>
+		<para>
+			For details, read RFC 2606.
+		</para>
+	</section>
+	
+	<section id="sect-Manual_for_Writers_and_Publishers-Design-Example_Computer_Output">
+		<title>Example Computer Output</title>
+		<para>
+			When showing example computer output (usually in screen tags), do you include the prompt or command (unless the command or prompt is the actually computer output you want to show).
+		</para>
+	</section>
+	
+	<section id="sect-Manual_for_Writers_and_Publishers-Design-Admonitions">
+		<title>Admonitions</title>
+		<para>
+			To bring a statement to the reader's attention, use an admonition. The admonitions available are note, tip, important, warning, and caution.
+		</para>
+		<para>
+			When using an adminition, always include a title according to the type of adminition it is: Note, Tip, Warning, Important, or Caution. Do not use a phrase or anything else for the title.
+		</para>
+		<para>
+			Try to keep the statements as brief and to the point as possible.
+		</para>
+		<para>
+			Try to use adminitions sparingly so that they do not lose their effectiveness.
+		</para>
+		<para>
+			Use Note to bring additional information to the users' attention.
+		</para>
+		<para>
+			Use Tip to show the user helpful information or another way to perform a task.
+		</para>
+		<para>
+			Use Important to show the user a piece of information that should not be overlooked. While this information may not change anything the user is doing, it should show the user that this piece of information could be vital.
+		</para>
+		<para>
+			Use Warning to show the reader that his current setup will change or be altered, such as files being removed, and he should not choose this operation unless he is alright with the consequences.
+		</para>
+		<para>
+			Use Caution to show the user that he must be careful when attempting a certain step.
+		</para>
+		<para>
+			Refer to Quick Reference for SGML Commands for details on how to implement these in SGML.
+		</para>
+	</section>
+	
+	<section id="sect-Manual_for_Writers_and_Publishers-Design-Additional_Resources">
+		<title>Additional Resources</title>
+		<para>
+			The Additional Resources section should be a sect1 and should be the last section in the chapter. Use the following style and titles, including sect2 titles. Each sect2 should contain an itemized list, and they should be listed in the following order: Installed Documentation, Useful Websites, Related Books.
+		</para>
+		<para>
+			The following is a sample of SGML for a generic chapter called chaptertitle:
+		</para>
+		
+<programlisting language="XML">
+   &#60;sect1 id="chaptertitle-additional-resources"&#62;
+     &#60;title&#62;Additional Resources &#60;/title &#62;
+      &#60;para&#62;
+       This should be a brief description of what is to follow.
+      &#60;/para&#62;
+      &#60;sect2 id="chaptertitle-installed-docs"&#62;
+	 &#60;title&#62;Installed Documentation&#60;/title&#62;
+	&#60;para&#62;
+	  &#60;itemizedlist&#62;
+	    &#60;listitem&#62;
+	      &#60;para&#62;
+		&#60;command&#62;foo&#60;/command&#62; man page —
+		These sentence should be a description of what this man page contains.
+	      &#60;/para&#62;
+	    &#60;/listitem&#62;
+	    &#60;listitem&#62;
+	      &#60;para&#62;
+		&#60;filename&#62;/usr/share/doc/foo&#60;/filename&#62; —
+		These sentence should be a description of what this directory contains.
+	      &#60;/para&#62;
+	    &#60;/listitem&#62;
+	  &#60;/itemizedlist&#62;
+	&#60;/para&#62;
+      &#60;/sect2&#62;
+      &#60;sect2 id="chaptertitle-useful-websites"&#62;
+	&#60;title&#62;Useful Websites&#60;/title&#62;
+	&#60;para&#62;
+	  &#60;itemizedlist&#62;
+	    &#60;listitem&#62;
+	      &#60;para&#62;
+		&#60;ulink url="http://www.redhat.com"&#62;http://www.redhat.com&#60;/ulink&#62; —
+	        This sentence should be a description of what this webpage contains.
+	      &#60;/para&#62;
+	    &#60;/listitem&#62;
+	    &#60;listitem&#62;
+	      &#60;para&#62;
+		&#60;ulink url="http://www.redhat.com"&#62;http://www.redhat.com&#60;/ulink&#62; —
+  	        This sentence should be a description of what this webpage contains.
+	      &#60;/para&#62;
+	    &#60;/listitem&#62;
+	  &#60;/itemizedlist&#62;
+	&#60;/para&#62;
+      &#60;/sect2&#62;
+      &#60;sect2 id="chaptertitle-related-books"&#62;
+	&#60;title&#62;Related Books&#60;/title&#62;
+	&#60;para&#62;
+	  &#60;itemizedlist&#62;
+	    &#60;listitem&#62;
+	      &#60;para&#62;
+		&#60;citetitle&#62;Book Title&#60;/citetitle&#62; by Author; Publisher  —
+	        This sentence should be a description of what this book contains.
+	      &#60;/para&#62;
+	    &#60;/listitem&#62;
+	  &#60;/itemizedlist&#62;
+	&#60;/para&#62;
+      &#60;/sect2&#62;
+    &#60;/sect1&#62;
+</programlisting>
+		<para>
+			In HTML, the above should look like the following:
+		</para>
+		<bridgehead>Additional Resources</bridgehead>
+		<para>
+			This should be a brief description of what is to follow.
+		</para>
+		<bridgehead>Installed Documentation</bridgehead>
+		<itemizedlist>
+			<listitem>
+				<para>
+					foo man page — These sentence should be a description of what this man page contains.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					/usr/share/doc/foo — These sentence should be a description of what this directory contains.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<bridgehead>Useful Websites</bridgehead>
+		<itemizedlist>
+			<listitem>
+				<para>
+					http://www.redhat.com — This sentence should be a description of what this webpage contains.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					http://www.redhat.com — This sentence should be a description of what this webpage contains.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<bridgehead>Related Books</bridgehead>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Book Title by Author; Publisher — This sentence should be a description of what this book contains.
+				</para>
+			</listitem>
+
+		</itemizedlist>
+	</section>
+	
+	<section id="sect-Manual_for_Writers_and_Publishers-Design-Book_References">
+		<title>Book References</title>
+		<para>
+			When referencing a book, please use the following format:
+		</para>
+		<para>
+			In SGML:
+		</para>
+		<para>
+			&#60;citetitle&#62;Book Title&#60;/citetitle&#62; by Author; Publisher
+		</para>
+		<para>
+			In HTML: Book Title by Author; Publisher For example, Maximum RPM by Edward Bailey; Red Hat Press.
+		</para>
+	</section>
+
+</chapter>
+

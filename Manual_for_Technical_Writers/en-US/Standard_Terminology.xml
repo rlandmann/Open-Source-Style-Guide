@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Manual_for_Writers_and_Publishers-Standard_Terminology">
+	<title>Standard Terminology</title>
+	 <para>
+		This page is an attempt to standardize some of the terminology and phraseology that we use in the RHEL documentation. Don't consider this as the final word by any means, but a set of guidelines.
+	</para>
+	<glossary> <glossentry><glossterm>Asks for</glossterm> <glossdef>
+	<para>
+		Use "requests" instead.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>By way of</glossterm> <glossdef>
+	<para>
+		Use "using" instead.
+	</para>
+	 <para>
+		Examples:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				connect one desktop or workstation to another by way of a host-to-host connection (incorrect)
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				connect one desktop or workstation to another using a host-to-host connection (correct)
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 </glossdef></glossentry> <glossentry><glossterm>For instance</glossterm> <glossdef>
+	<para>
+		Use "For example"
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>For further/additional/whatever information</glossterm> <glossdef>
+	<para>
+		Use "For more information"
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>For this reason</glossterm> <glossdef>
+	<para>
+		Use "therefore"
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Lots of</glossterm> <glossdef>
+	<para>
+		Use "Several" or something equivalent instead.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Tells</glossterm> <glossdef>
+	<para>
+		Use "instructs", or "informs" instead, depending on the context.
+	</para>
+	 <para>
+		Examples:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				This option instructs the command to process all files in alphabetical order.
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 </glossdef></glossentry> <glossentry><glossterm>Within</glossterm> <glossdef>
+	<para>
+		Don't use to refer to a file that exists in a directory. Use "In".
+	</para>
+	 <para>
+		Examples:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				If the iptables file exists within the /etc/sysconfig directory... (Incorrect)
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				If the iptables file exists in the /etc/sysconfig directory... (Better)
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				If the /etc/sysconfig/iptables file exists, ... (Even better)
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 </glossdef></glossentry><glossentry><glossterm>Sentence Syntax and Example Formats</glossterm> <glossdef>
+	<para>
+		The most common example I have come across is the way we use "Refer to xxx for more information". Sometimes it is written "For more information, refer to xxx", with other variations scattered around the place.
+	</para>
+	</glossdef></glossentry> <glossentry><glossterm>Giving Command Examples</glossterm> <glossdef> <itemizedlist>
+		<listitem>
+			<para>
+				Include a basic shell prompt, either for a normal user or for root, as appropriate.
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				Don't include the path unless it seems absolutely necessary. (Note: this refers to commands, not files.)
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				If you have two commands immediately following each other, they look better (in html at least) if they're contained in the same tag. i.e., don't have a pair for each command.
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				Try to use sensible names, or at least names that aren't confusing...
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 <para>
+		Examples:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				[root@myServer ~ ] # chkconfig --level 345 iptables on
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 </glossdef></glossentry> <glossentry><glossterm>Gerunds</glossterm> <glossdef>
+	<para>
+		Everybody's favourite topic. The following is just an example of how it has been used, how it could be confusing, and how it could be improved:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				For instructions on constructing iptables rules... Could be read as "how to get instructions while you're constructing iptables rules" (parallel operation)
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				For instructions on how to construct iptables rules... Less confusing
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 </glossdef></glossentry> <glossentry><glossterm>Plurals</glossterm> <glossdef>
+	<para>
+		Dont's put "es" in parentheses to indicate plurals. I try to use this line of thought:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				If it can only be singular, leave it singular
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				If it can be plural, make it plural
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 <para>
+		Examples:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				Bind the IP address(es) to the appropriate port(s)
+			</para>
+		</listitem>
+		 <listitem>
+			<para>
+				Bind the IP addresses to the appropriate ports
+			</para>
+		</listitem>
+
+	</itemizedlist>
+	 </glossdef></glossentry> <glossentry><glossterm>Technical Syntax</glossterm> <glossdef> <variablelist>
+		<varlistentry>
+			<term>Functions</term>
+			 <listitem>
+				<para>
+					Take parameters and use syntax
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							The myFunction() function takes the following parameters:
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							The myFunction() function uses the following syntax:
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>struct definitions</term>
+			 <listitem>
+				<para>
+					Contain fields and use syntax
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							The ldapmod struct definition contains the following fields:
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							The ldapmod struct definition uses the following syntax:
+						</para>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+	 </glossdef></glossentry> </glossary>
+</chapter>
+
