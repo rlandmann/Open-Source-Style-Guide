@@ -12,7 +12,7 @@
 	 <pubsnumber>0</pubsnumber>
 	 <abstract>
 		<para>
-			A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file.
+			This style guide provides advice on English usage and writing style for technical writers documenting open-source software. 
 		</para>
 
 	</abstract>
