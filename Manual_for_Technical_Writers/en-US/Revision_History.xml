@@ -8,6 +8,24 @@
 	 <simpara>
 		<revhistory>
 			<revision>
+				<revnumber>0.2-1</revnumber>
+				 <date>Tue July 12 2011</date>
+				 <author>
+					<firstname>Rüdiger</firstname>
+					 <surname>Landmann</surname>
+					 <email>r.landmann@gmail.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member>Start to add Fedora material</member>
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			
+			<revision>
 				<revnumber>0.1-2</revnumber>
 				 <date>Tue July 12 2011</date>
 				 <author>
@@ -25,8 +43,6 @@
 
 			</revision>
 
-		</revhistory>
-		<revhistory>
 			<revision>
 				<revnumber>0.1-1</revnumber>
 				 <date>Thu Aug 26 2010</date>

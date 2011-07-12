@@ -6,7 +6,9 @@
 <book status="draft">
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Introduction_to_style.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Word_Usage.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Dates_and_times.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Grammar.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
@@ -16,6 +18,6 @@
 	 <xi:include href="XML_Tags.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Resources.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <index />
+	 <!-- <index /> -->
 </book>
 

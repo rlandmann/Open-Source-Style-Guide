@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Manual_for_Writers_and_Publishers-Dates_and_times">
+	<title>Dates and times</title>
+	<para>The styles used for dates and times vary widely around the world, and this creates a lot of confusion. While there is consensus on one calendar for most business purposes, the dates on this calendar can be represented in many different ways. The varying uses of daylight saving time and assorted ways of representing time can make even simple communications more difficult. International standards have been developed to effectively communicate dates and times, and these standards should be used for publications that may reach a global audience.</para><para role="attr">FP:1107</para>
+
+ <section><title>Absolute dates and times</title>
+
+ <para>Absolute dates and times specify specific points in time and may include points in the past, present, or future.</para>
+
+<para>The ISO 8601 standard provides a simple way to represent dates and times that is easily recognized around the world and is equally easy to use. Under this standard, all values are ordered from most to least significant. Write all absolute dates and times in accordance with the ISO 8601 standard.</para>
+<section><title>Absolute Dates</title>
+
+<para>Absolute dates are written with the four-digit year first, the two-digit month second, and the two-digit day last. Each value is separated with a hyphen. This format is written as "YYYY-MM-DD".</para><para role="attr">FP:1107</para>
+</section>
+<section><title>Absolute Times</title>
+
+<para>Absolute times are written with the two-digit hour first and the two-digit minute second. Each value is separated by a colon. This format is written as "HH:MM".</para>
+
+<para>Additional precision is provided using seconds. Seconds are written as two-digit integers. Minutes and seconds are separated by a colon. This format is written as "HH:MM:SS".</para>
+
+<para>Any fraction of a second is written as a decimal number. No limit is placed on the precision used. For example, to use precision of 1/100th of one second, this format is written as "HH:MM:SS.NN".</para>
+
+<para>Absolute times are followed by a timezone specification. The Coordinated Universal Time (UTC) is a universally recognized time standard and is preferred for absolute time specifications. This is sometimes referred to as Greenwich Mean Time (GMT) or Zulu Time (Z). The preferred way to specify a time in UTC is to follow the time with a space and "UTC". This format is written as "HH:MM UTC". </para><para role="attr">FP:1107</para>
+</section>
+</section>
+</chapter>
+

@@ -165,6 +165,17 @@
 				 <bibliomisc>PDF version available at no cost online from http://developer.apple.com/mac/library/documentation/?UserExperience/Conceptual/?APStyleGuide/APSG_2008.pdf</bibliomisc>
 			</biblioentry>
 			<biblioentry>
+				<title>GNOME Documentation Style Guide, V1.6</title>
+				 <publisher>
+					<publishername>
+						The GNOME Documentation Project
+					</publishername>
+					
+				</publisher>
+				 <pubdate>2005</pubdate>
+				 <bibliomisc>http://developer.gnome.org/gdp-style-guide/stable/</bibliomisc>
+			</biblioentry>
+			<biblioentry>
 				<title>IBM Style, Sixth Edition</title>
 				 <publisher>
 					<publishername>
@@ -210,6 +221,19 @@
 					</address>
 				</publisher>
 				 <pubdate>1999</pubdate>
+			</biblioentry>
+		</bibliodiv>
+		 <bibliodiv>
+			<title>Markup</title>
+			<biblioentry>
+				<title>DocBook: The Definitive Guide</title>
+				 <publisher>
+					<publishername>
+						The DocBook Project
+					</publishername>
+				</publisher>
+				 <pubdate>2006</pubdate>
+				 <bibliomisc>http://docbook.org/tdg/en/html/docbook.html</bibliomisc>
 			</biblioentry>
 		</bibliodiv>
 

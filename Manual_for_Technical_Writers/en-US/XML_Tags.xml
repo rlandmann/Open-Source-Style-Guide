@@ -3,8 +3,12 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Manual_for_Writers_and_Publishers-XML_Tags">
-	<title>XML Tags</title>
+<chapter id="chap-Manual_for_Writers_and_Publishers-Content_and_rendering">
+  <title>Content and rendering</title>
+  <para>Writing documentation for display on assorted media through various technologies presents unique requirements. In general, keep the written content and rendering information separate. Rendering information is the formatting markup language to distinguish types of information, such as bold text to add emphasis. Modern technologies empower writers to use specialized markup language to enhance communication. It is imperative writers participating in collaborative projects  adhere to standards and prescribed templates.</para>
+  <para>Keeping content material and markup language separate from each other within documentation adds an additional benefit. As new media formats develop, project coordinators easily remove markup language and re-format the original content for the new communication outlet. Therefore, separating markup language from subject matter content encourages use of the original content for future projects with little additional effort.</para><para role="attr">FP:1107</para>
+
+  <section><title>XML Tags</title>
 	 <para>
 		It's not always logical which tag to use for something. I'm trying to help. You may disagree with some of the following, so feel free to ask about it and get it changed to something sensible. This is my thinking out loud and somewhere to keep things. It's not gospel or a rule book.
 	</para>
@@ -269,6 +273,6 @@
 			</listitem>
 		</varlistentry>
 	</variablelist>
-
+      </section>
 </chapter>
 

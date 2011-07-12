@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE preface PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Manual_for_Writers_and_Publishers.ent">
+%BOOK_ENTITIES;
+]> 
+  <preface>
+    <title>Introduction to style</title>
+    <para role="attr">FP:1107</para>
+    <para>
+      Writing high-quality documents easily understood by multiple readers is a difficult challenge. There are many different techniques that can be used in writing, and there are many different ways of writing the same information. In order to provide consistent, readable documentation, certain standards must be established. There are many different writing style guides that serve different purposes and audiences. Good style is something learned and practiced.
+    </para>
+
+ <para>Your documentation project is tasked with producing friendly, easy-to-read documentation for a worldwide audience. This means writing clean, clear documents with great attention to differences in cultures and languages. <citetitle>The Open-Source Style Guide</citetitle> outlines specific rules and recommendations for documentation contributors. The style guidelines standardize documentation of both technical and non-technical information, to increase readability and comprehension.</para>
+
+<para>The writers producing your documentation come from a variety of backgrounds, each with different skill sets. Through use of <citetitle>The Open-Source Style Guide</citetitle>, contributors produce and collaborate on documentation with consistent results. This style guide may vary from each contributor's familiar writing requirements. Practicing this guide will eventually become a comfortable standard with benefits outside of your project's documentation. This style guide will demonstrate the rules and guidelines it sets forth.</para>
+
+<para><citetitle>The Open-Source Style Guide</citetitle> borrows many ideas from the <citetitle>Associated Press (AP) Stylebook</citetitle> and <citetitle>The Chicago Manual of Style</citetitle>. Any differences from those guides are intended to enhance the value of documents for international readers, and accommodate the technical nature of documentation for open-source software projects. Particular care is made to adopt international standards for common notations to avoid confusion across cultural lines. </para>
+  </preface>
