@@ -17,7 +17,7 @@
 			 <listitem>
 				<para>
 					Use citetitle when referring to an external book.
-				</para>
+				</para><para role="attr">RH:1008</para>
 			</listitem>
 		</varlistentry>
 		<varlistentry>
@@ -25,7 +25,7 @@
 			 <listitem>
 				<para>
 					This is a wrapper. Refer to the docbook website for how to use this. Essentially it's used for documenting the syntax of commands (rather than actual examples), and listing the various possible arguments, their class, etc.
-				</para>
+				</para><para role="attr">RH:1008</para>
 			</listitem>
 		</varlistentry>
 		<varlistentry>
@@ -33,7 +33,7 @@
 			 <listitem>
 				<para>
 					commands
-				</para>
+				</para><para role="attr">RH:1008</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
@@ -64,7 +64,7 @@
 			<term>&#60;filename&#62;</term>
 			 <listitem>
 				<para>
-					files and directories 
+				  files and directories </para><para role="attr">RH:1008</para>
 					<itemizedlist>
 						<listitem>
 							<para>
@@ -74,7 +74,7 @@
 
 					</itemizedlist>
 
-				</para>
+				
 			</listitem>
 		</varlistentry>
 		<varlistentry>
@@ -82,7 +82,7 @@
 			 <listitem>
 				<para>
 					GUI objects
-				</para>
+				</para><para role="attr">RH:1008</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
@@ -104,7 +104,7 @@
 			 <listitem>
 				<para>
 					Attribute values
-				</para>
+				</para><para role="attr">RH:1008</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
@@ -126,7 +126,7 @@
 			 <listitem>
 				<para>
 					command options, etc.
-				</para>
+				</para><para role="attr">RH:1008</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
@@ -153,7 +153,7 @@
 			 <listitem>
 				<para>
 					Parameters of any kind
-				</para>
+				</para><para role="attr">RH:1008</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
@@ -185,7 +185,7 @@
 			 <listitem>
 				<para>
 					Use this for code samples (anything that is typed into a text editor) ... and then use &#60;screen&#62; for the output.
-				</para>
+				</para><para role="attr">RH:1008</para>
 			</listitem>
 		</varlistentry>
 		<varlistentry>
@@ -193,7 +193,7 @@
 			 <listitem>
 				<para>
 					I started using this when referring to (e.g.,) Group Name, GID, and UID of users in the IPA documentation.
-				</para>
+				</para><para role="attr">RH:1008</para>
 			</listitem>
 		</varlistentry>
 		<varlistentry>
@@ -201,7 +201,7 @@
 			 <listitem>
 				<para>
 					Fairly obvious I guess, but I've seen it marked up as various other things. It just refers to the value returned by a function or something similar, with typical values being 0 (zero) or -1, etc.
-				</para>
+				</para><para role="attr">RH:1008</para>
 			</listitem>
 		</varlistentry>
 		<varlistentry>
@@ -209,7 +209,7 @@
 			 <listitem>
 				<para>
 					For anything that is shown on a screen ... usually output from a command. Do not use for code samples.
-				</para>
+				</para><para role="attr">RH:1008</para>
 			</listitem>
 		</varlistentry>
 		<varlistentry>
@@ -217,7 +217,7 @@
 			 <listitem>
 				<para>
 					This tag supports a range of classes that can be used for various things, such as protocols, resources, and user account names. Also use for less easily-definable objects, such as PAM and kernel modules, with 'role="module"'.
-				</para>
+				</para><para role="attr">RH:1008</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
@@ -265,7 +265,7 @@
 			 <listitem>
 				<para>
 					Data types for parameters
-				</para>
+				</para><para role="attr">RH:1008</para>
 			</listitem>
 		</varlistentry>
 	</variablelist>

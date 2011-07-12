@@ -12,7 +12,7 @@
 	<para>
 		Use "requests" instead.
 	</para>
-	</glossdef></glossentry> <glossentry><glossterm>By way of</glossterm> <glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>By way of</glossterm> <glossdef>
 	<para>
 		Use "using" instead.
 	</para>
@@ -32,23 +32,23 @@
 		</listitem>
 
 	</itemizedlist>
-	 </glossdef></glossentry> <glossentry><glossterm>For instance</glossterm> <glossdef>
+	 <para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>For instance</glossterm> <glossdef>
 	<para>
 		Use "For example"
 	</para>
-	</glossdef></glossentry> <glossentry><glossterm>For further/additional/whatever information</glossterm> <glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>For further/additional/whatever information</glossterm> <glossdef>
 	<para>
 		Use "For more information"
 	</para>
-	</glossdef></glossentry> <glossentry><glossterm>For this reason</glossterm> <glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>For this reason</glossterm> <glossdef>
 	<para>
 		Use "therefore"
 	</para>
-	</glossdef></glossentry> <glossentry><glossterm>Lots of</glossterm> <glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>Lots of</glossterm> <glossdef>
 	<para>
 		Use "Several" or something equivalent instead.
 	</para>
-	</glossdef></glossentry> <glossentry><glossterm>Tells</glossterm> <glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>Tells</glossterm> <glossdef>
 	<para>
 		Use "instructs", or "informs" instead, depending on the context.
 	</para>
@@ -63,7 +63,7 @@
 		</listitem>
 
 	</itemizedlist>
-	 </glossdef></glossentry> <glossentry><glossterm>Within</glossterm> <glossdef>
+	 <para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>Within</glossterm> <glossdef>
 	<para>
 		Don't use to refer to a file that exists in a directory. Use "In".
 	</para>
@@ -88,11 +88,11 @@
 		</listitem>
 
 	</itemizedlist>
-	 </glossdef></glossentry><glossentry><glossterm>Sentence Syntax and Example Formats</glossterm> <glossdef>
+	 <para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Sentence Syntax and Example Formats</glossterm> <glossdef>
 	<para>
 		The most common example I have come across is the way we use "Refer to xxx for more information". Sometimes it is written "For more information, refer to xxx", with other variations scattered around the place.
 	</para>
-	</glossdef></glossentry> <glossentry><glossterm>Giving Command Examples</glossterm> <glossdef> <itemizedlist>
+	<para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>Giving Command Examples</glossterm> <glossdef> <itemizedlist>
 		<listitem>
 			<para>
 				Include a basic shell prompt, either for a normal user or for root, as appropriate.
@@ -126,7 +126,7 @@
 		</listitem>
 
 	</itemizedlist>
-	 </glossdef></glossentry> <glossentry><glossterm>Gerunds</glossterm> <glossdef>
+	 <para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>Gerunds</glossterm> <glossdef>
 	<para>
 		Everybody's favourite topic. The following is just an example of how it has been used, how it could be confusing, and how it could be improved:
 	</para>
@@ -143,7 +143,7 @@
 		</listitem>
 
 	</itemizedlist>
-	 </glossdef></glossentry> <glossentry><glossterm>Plurals</glossterm> <glossdef>
+	 <para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>Plurals</glossterm> <glossdef>
 	<para>
 		Dont's put "es" in parentheses to indicate plurals. I try to use this line of thought:
 	</para>
@@ -176,7 +176,7 @@
 		</listitem>
 
 	</itemizedlist>
-	 </glossdef></glossentry> <glossentry><glossterm>Technical Syntax</glossterm> <glossdef> <variablelist>
+	 <para role="attr">RH:1008</para></glossdef></glossentry> <glossentry><glossterm>Technical Syntax</glossterm> <glossdef> <variablelist>
 		<varlistentry>
 			<term>Functions</term>
 			 <listitem>
@@ -231,6 +231,6 @@
 		</varlistentry>
 
 	</variablelist>
-	 </glossdef></glossentry> </glossary>
+	 <para role="attr">RH:1008</para></glossdef></glossentry> </glossary>
 </chapter>
 

@@ -6,7 +6,7 @@
 <chapter id="chap-Manual_for_Writers_and_Publishers-Punctuation">
 	<title>Punctuation</title>
 	 <section id="sect-Manual_for_Writers_and_Publishers-Punctuation-Colons_and_semicolons">
-		<title>Colons and semicolons</title>
+		<title>Colons and semicolons</title><para role="attr">RH:1008</para>
 		 <section id="sect-Manual_for_Writers_and_Publishers-Colons_and_semicolons-To_relate_clauses">
 			<title>To relate clauses</title>
 			<para>
@@ -179,7 +179,7 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Punctuation-Commas">
-		<title>Commas</title>
+		<title>Commas</title><para role="attr">RH:1008</para>
 		<section id="sect-Manual_for_Writers_and_Publishers-Commas-In_compound_sentences">
 			<title>In compound sentences</title>
 			<para>
@@ -326,7 +326,7 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Punctuation-Parentheses">
-		<title>Parentheses</title>
+		<title>Parentheses</title><para role="attr">RH:1008</para>
 		<para>
 			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is very closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
 		</para>
@@ -364,7 +364,7 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Punctuation-Quotation_Marks">
-		<title>Quotation Marks</title>
+		<title>Quotation Marks</title><para role="attr">RH:1008</para>
 		<para>
 			Commas and periods go inside quotation marks.
 		</para>
@@ -380,7 +380,7 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Punctuation-Apostrophes">
-		<title>Apostrophes</title>
+		<title>Apostrophes</title><para role="attr">RH:1008</para>
 		<para>
 			Plural nouns not ending in s should have add an 's (for example, the alumni's contribution).
 		</para>

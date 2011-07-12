@@ -8,7 +8,27 @@
 	 <simpara>
 		<revhistory>
 			<revision>
-				<revnumber>0</revnumber>
+				<revnumber>0.1-2</revnumber>
+				 <date>Tue July 12 2011</date>
+				 <author>
+					<firstname>Rüdiger</firstname>
+					 <surname>Landmann</surname>
+					 <email>r.landmann@gmail.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member>Add attributions</member>
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+
+		</revhistory>
+		<revhistory>
+			<revision>
+				<revnumber>0.1-1</revnumber>
 				 <date>Thu Aug 26 2010</date>
 				 <author>
 					<firstname>Rüdiger</firstname>

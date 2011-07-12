@@ -13,7 +13,7 @@
 	</section>
 	
 	 <section id="sect-Manual_for_Writers_and_Publishers-Grammar-Agreement">
-		<title>Agreement</title>
+		<title>Agreement</title><para role="attr">RH:1008</para>
 		<para>
 			In grammar, agreement occurs when specific parts of a sentence are coordinated: that is, they "shake hands" in number or gender.
 		</para>
@@ -60,7 +60,7 @@
 					Rule: When collective nouns are used as antecedents, use singular to plural pronouns, depending on the sentence's meaning.
 				</para>
 
-			</formalpara>
+			</formalpara><para role="attr">RH:1008</para>
 			 <para>
 				Examples:
 			</para>
@@ -83,7 +83,7 @@
 					Use "whom," "who," or "that" to introduce a qualifying phrase when the antecedent is a person. Use "which" when referring to a thing. Use "which" or "that" to introduce a qualifying phrase when the antecedent is a concept or an object. Who, whom, that, and which are known as "relative pronouns."
 				</para>
 
-			</formalpara>
+			</formalpara><para role="attr">RH:1008</para>
 			 <para>
 				Use the following as guidelines:
 			</para>
@@ -197,7 +197,7 @@
 	</section>
 	
 	 <section id="sect-Manual_for_Writers_and_Publishers-Grammar-Sentence_Structure">
-		<title>Sentence Structure</title>
+		<title>Sentence Structure</title><para role="attr">RH:1008</para>
 		<para>
 			A sentence is one, complete thought. A sentence expresses something about a subject (a person, place, or thing) and a verb (what the subject is or does).
 		</para>
@@ -247,7 +247,7 @@
 		</section>
 		
 		 <section id="sect-Manual_for_Writers_and_Publishers-Sentence_Structure-Run_on_sentences">
-			<title>Run on sentences</title>
+			<title>Run on sentences</title><para role="attr">RH:1008</para>
 			 <para>
 				Two or more complete ideas that are joined without punctuation create a run-on sentence (also called a fused sentence). The sentence doesn't have to be long to be a run-on -- although the longer your sentence, the more difficult it is to read.
 			</para>
@@ -310,21 +310,21 @@
 	</section>
 	
 	 <section id="sect-Manual_for_Writers_and_Publishers-Grammar-Contractions">
-		<title>Contractions</title>
+		<title>Contractions</title><para role="attr">RH:1008</para>
 		<para>
 			Do not use contractions in formal documentation.
 		</para>
 	</section>
 	
 	 <section id="sect-Manual_for_Writers_and_Publishers-Grammar-Gender_References">
-		<title>Gender References</title>
+		<title>Gender References</title><para role="attr">RH:1008</para>
 		<para>
 			Do not use gender-specific pronouns in documentation. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." It is fine to use "you" when giving instructions and "the user," "new users," etc. in more general explanations. Never use "one" in place of "you" when writing technical documentation. Using "one" is far too formal.
 		</para>
 	</section>
 	
 	 <section id="sect-Manual_for_Writers_and_Publishers-Grammar-Tense">
-		<title>Tense</title>
+		<title>Tense</title><para role="attr">RH:1008</para>
 		<para>
 			Avoid future tense (or using the term "will") whenever possible For example, future tense ("The screen will display...") does not read as well as the present tense ("The screen displays"). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
 		</para>

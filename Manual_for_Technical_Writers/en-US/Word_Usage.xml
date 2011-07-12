@@ -19,11 +19,11 @@
 	<para>
 		If small caps are unavailable, lowercase is preferred to uppercase.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>ATM</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>ATM</glossterm><glossdef>
 	<para>
 		Short for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell used with ATM is relatively small compared to units used with older technologies. The small, constant cell size allows ATM equipment to transmit video, audio, and computer data over the same network, and assure that no single type of data hogs the line.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>abort</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>abort</glossterm><glossdef>
 	<para>
 		To stop a program or function before it has finished naturally. The term abort refers to both requested and unexpected terminations. For example, many applications let you abort a search or a print job. On the other hand, programs can abort unexpectedly for any of the following reasons:
 	</para>
@@ -36,11 +36,11 @@
 	<listitem><para>
 		hardware malfunction
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>above</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>above</glossterm><glossdef>
 	<para>
 		Do not use to refer to information mentioned previously. When documents are converted to HTML, the information may no longer be ‘above’. Use a cross-reference instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>acronyms</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>acronyms</glossterm><glossdef>
 	<para>
 		An acronym is a word formed from the initial letters of a name, such as ROM for Read Only Memory, or by combining initial letters or part of a series of words, such as LILO for LInux LOader. Note that an acronym is pronounceable as a word. Compare this to an initialism, which is also formed in a similar fashion to an acronym, but in which each letter is pronounced separately.
 	</para>
@@ -50,41 +50,41 @@
 	<para>
 		To form the plural of an acronym, add a trailing, lower-case "s", e.g., ROMs, PINs.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>alternate</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>alternate</glossterm><glossdef>
 	<para>
 		Don’t use this to mean ‘an alternative to something’. ‘Alternate’ (vb.) means to change between two states or options, etc. If you mean ‘another way of doing something’, use ‘an alternative method is to…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>appendixes</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>appendixes</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘appendices’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>applications</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>applications</glossterm><glossdef>
 	<para>
 		When used as a proper name, use the capitalization of the product. When used as a command, use lowercase as appropriate, such as ‘To start GCC, type gcc’.
 	</para>
 	<para>
 		Note: ‘vi’ is always lowercase.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>architecture</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>architecture</glossterm><glossdef>
 	<para>
 		A design. The term architecture can refer to either hardware or software, or to a combination of hardware and software. The architecture of a system always defines its broad outlines, and may define precise mechanisms as well.
 	</para>
 	<para>
 		An open architecture allows the system to be connected easily to devices and programs made by other manufacturers. Open architectures use off-the-shelf components and conform to approved standards. A system with a closed architecture, on the other hand, has a proprietary design.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>At this point in time</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>At this point in time</glossterm><glossdef>
 	<para>
 		Do not use. Use either ‘now’ or ‘at this time’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>auto-detect</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>auto-detect</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘autodetect’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>automagic</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>automagic</glossterm><glossdef>
 	<para>
 		Also, automagical. This is slang. Do not use.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-B"><title>B</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-B"><title>B</title>
 	 <glossentry><glossterm>back end and back-end</glossterm><glossdef>
 	<para>
 		‘Back end’ is a noun, ‘back-end’ is an adjective. Refers to software that performs the final stages of a process, or tasks that are not visible to the user.
@@ -98,7 +98,7 @@
 	<para>
 		Do not use ‘backend’ as noun or adjective.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>back up</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>back up</glossterm><glossdef>
 	<para>
 		Depending on usage, this could appear in any of three ways:
 	</para>
@@ -111,7 +111,7 @@
 	<listitem><para>
 		Adjective: The back-up copies of important files should be kept in a secure location.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>background</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>background</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		Multitasking computers are capable of executing several tasks, or programs, at the same time. In some multitasking systems, one of the processes is called the foreground process , and the others are called background processes.
 	</para>
@@ -121,62 +121,62 @@
 	<listitem><para>
 		The area of a display screen not covered by characters and graphics. The background is like a canvas on top of which characters and graphics are placed. Some monitors allow you to control the color or shading of the background.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>backup</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>backup</glossterm><glossdef>
 	<para>
 		This is a noun. You create ‘backup’ files; you do not create ‘back up’ files.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>backward</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>backward</glossterm><glossdef>
 	<para>
 		Correct. Avoid using backwards unless you are stating that something has ‘backwards compatibility’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>backwards compatibility</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>backwards compatibility</glossterm><glossdef>
 	<para>
 		Correct.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>bandwidth</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>bandwidth</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		A range within a band of frequencies or wavelengths.
 	</para></listitem>
 	<listitem><para>
 		The amount of data that can be transmitted in a fixed amount of time. For digital devices, the bandwidth is usually expressed in bits per second (bps) or bytes per second (Bps). For analog devices, the bandwidth is expressed in cycles per second, or Hertz (Hz).
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>basically</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>basically</glossterm><glossdef>
 	<para>
 		Do not use. For example, removing the word ‘basically’ in the following sentence strengthens it: ‘This is how it is basically done’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>because or since</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>because or since</glossterm><glossdef>
 	<para>
 		Don’t use ‘since’ to mean ‘because’, it is ambiguous. Use ‘because’ to refer to a reason. Use ‘since’ to refer to the passage of time.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>behavior</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>behavior</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘behaviour’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>below</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>below</glossterm><glossdef>
 	<para>
 		Do not use to refer to information mentioned ‘below’. When documents are converted to HTML, the information may no longer be ‘below’. Use a cross-reference instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>BIND</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>BIND</glossterm><glossdef>
 	<para>
 		Correct. Do not use Bind.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>BIOS</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>BIOS</glossterm><glossdef>
 	<para>
 		Correct. If pluralization is needed, BIOSes is correct.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>bit rate</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>bit rate</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘bitrate’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>bring up</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>bring up</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘open’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Boolean</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Boolean</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘boolean’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>boot</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>boot</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		(v) To load the first piece of software that starts a computer. Because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
 	</para>
@@ -186,65 +186,65 @@
 	<listitem><para>
 		(n) Short for bootstrap, the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot is when you turn the computer on from an off position. A warm boot is when you reset a computer that is already on.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>boot disk</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>boot disk</glossterm><glossdef>
 	<para>
 		Correct. Two words. ‘Boot diskette’ should not be used.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>boot loader</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>boot loader</glossterm><glossdef>
 	<para>
 		Correct. Two words. Do not use ‘bootloader’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>bottleneck</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>bottleneck</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘bottle neck’ or ‘bottle-neck’.
 	</para>
 	<para>
 		A bottleneck refers to the delay in transmission of data through the circuits of a computer’s microprocessor or over a TCP/IP network. The delay typically occurs when a system’s bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>bpp</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>bpp</glossterm><glossdef>
 	<para>
 		Stands for bits per pixel. All letters are lowercase (unless at the beginning of a sentence, obviously). Example, ‘16 bpp,’ not ‘16bpp’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>broadcast</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>broadcast</glossterm><glossdef>
 	<para>
 		To simultaneously send the same message to multiple recipients. Broadcasting is a useful feature in email systems. It is also supported by some fax systems.
 	</para>
 	<para>
 		In networking, a distinction is made between broadcasting and multicasting. Broadcasting sends a message to everyone on the network whereas multicasting sends a message to a select list of recipients.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>bug fix</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>bug fix</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘bugfix’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>built-in</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>built-in</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘builtin’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>bunches of</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>bunches of</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘many’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>button</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>button</glossterm><glossdef>
 	<para>
 		Refer to a GUI button as a ‘button’, not a ‘pushbutton’ or ‘push-button’.
 	</para>
 	<para>
 		Ordinarily you would not need to include the text ‘button’ in a procedure or description. For example, ‘Click OK to continue’. is perfectly acceptable. It may be necessary to distinguish between buttons and links, for example, ‘Click the Unload button’.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-C"><title>C</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-C"><title>C</title>
 	 <glossentry><glossterm>can/may</glossterm><glossdef>
 	<para>
 		Use ‘can’ to describe actions or conditions that are possible. Use ‘may’ only to describe situations where permission is being given. If either ‘can,’ ‘could,’ or ‘may’ apply, use ‘can’ — it is less tentative.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>cannot</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>cannot</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘can not’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>canceled</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>canceled</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘cancelled’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>cd or CD</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>cd or CD</glossterm><glossdef>
 	<para>
 		When referring to the change directory command, use cd.
 	</para>
@@ -254,41 +254,41 @@
 	<para>
 		When referring to the optical drive, use CD-ROM drive. Do not use ‘cdrom,’ ‘CD-Rom,’ ‘CDROM,’ ‘cd-rom’ or any other variation. The plural is ‘CD-ROM drives’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>characters</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>characters</glossterm><glossdef>
 	<para>
 		Do not use ‘characters’ when you should use ‘bytes’. In English, bytes and characters can be used interchangeably; in other languages a single character may consist of multiple bytes.
 	</para>
 	<para>
 		In computer software, any symbol that requires one byte of storage. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>check</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>check</glossterm><glossdef>
 	<para>
 		Do not use. Use verify, make sure, ensure, or read, depending on the context.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>checkbox</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>checkbox</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘check box’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>chipset</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>chipset</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘chip set’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>ciphertext</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>ciphertext</glossterm><glossdef>
 	<para>
 		Correct. Do not use "cipher text" or "cipher-text" or other variants.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>clear text</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>clear text</glossterm><glossdef>
 	<para>
 		Do not use. Use plain text instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>click</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>click</glossterm><glossdef>
 	<para>
 		Use when referring to a GUI control button. For example, ‘Click OK’ or ‘Click the Unload button’.
 	</para>
 	<para>
 		For keyboard instructions, see press.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>client/server architecture</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>client/server architecture</glossterm><glossdef>
 	<para>
 		A network architecture in which each computer or process on the network is either a client or a server. Servers are powerful computers or processes dedicated to managing disk drives (file servers), printers (print servers), or network traffic (network servers ). Clients are PCs or workstations on which users run applications. Clients rely on servers for resources, such as files, devices, and even processing power.
 	</para>
@@ -298,38 +298,38 @@
 	<para>
 		Client/server architectures are sometimes called two-tier architectures.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>client-side/client side</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>client-side/client side</glossterm><glossdef>
 	<para>
 		Careful here. For example: Windbind is a client-side service used to connect to Windows NT servers. Windbind runs on the client side of a client/server Samba implementation. See server-side/server side.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>clobber or clobbered</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>clobber or clobbered</glossterm><glossdef>
 	<para>
 		These words should be avoided (except if ‘clobber’ is the actual name of something). Use ‘altered,’ ‘invalidated,’ or ’overwritten’ — whichever is appropriate in the specific context.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>clustering</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>clustering</glossterm><glossdef>
 	<para>
 		Connecting two or more computers together in such a way that they behave like a single computer. Clustering is used for parallel processing, load balancing and fault tolerance.
 	</para>
 	<para>
 		Clustering is a popular strategy for implementing parallel processing applications because it enables companies to leverage the investment already made in PCs and workstations. In addition, it’s relatively easy to add new CPUs simply by adding a new PC to the network.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>code</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>code</glossterm><glossdef>
 	<para>
 		Only use as a noun, not a verb. Use ‘write’ for a verb.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>color</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>color</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘colour’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>combo-box</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>combo-box</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘combobox’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>comma-delimited</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>comma-delimited</glossterm><glossdef>
 	<para>
 		A data format in which each piece of data is separated by a comma. This is a popular format for transferring data from one application to another, because most database systems are able to import and export comma-delimited data.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>command</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>command</glossterm><glossdef>
 	<para>
 		An instruction to a computer or device to perform a specific task. Commands come in different forms. They can be:
 	</para>
@@ -351,85 +351,85 @@
 	<para>
 		Another word for command is directive.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>command button</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>command button</glossterm><glossdef>
 	<para>
 		Use button instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>command-driven</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>command-driven</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘command driven’ or ‘commanddriven’.
 	</para>
 	<para>
 		Refers to programs and operating systems that accept commands in the form of special words or letters. In contrast, programs that allow you to choose from a list of options in a menu are said to be menu driven. Command-driven software is often more flexible than menu-driven software, but it is more difficult to learn.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>command language</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>command language</glossterm><glossdef>
 	<para>
 		The programming language through which a user communicates with the operating system or an application. For example, the DOS command language includes the commands DIR, COPY, and DEL, to name a few. The part of an operating system that responds to operating system commands is called the command processor.
 	</para>
 	<para>
 		With graphical user interfaces, the command language consists of operations you perform with a mouse or similar input device.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>command line</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>command line</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘command-line’ or ‘commandline’.
 	</para>
 	<para>
 		The line on the display screen where a command is expected. Generally, the command line is the line that contains the most recently displayed command prompt.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>command prompt</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>command prompt</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘shell prompt’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>command processor</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>command processor</glossterm><glossdef>
 	<para>
 		The part of the operating system that receives and executes operating system commands. Every operating system has a command processor. When the shell prompt is displayed, the command processor is waiting for a command. After you enter a command, the command processor analyzes the syntax to make sure the command is valid, and then either executes the command or issues an error warning. For operating systems with a graphical user interface, the command processor interprets mouse operations and executes the appropriate command.
 	</para>
 	<para>
 		Another term for command processor is command line interpreter.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>component</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>component</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		A small binary object or program that performs a specific function and is designed in such a way to easily operate with other components and applications. Increasingly, the term is being used interchangeably with applet.
 	</para></listitem>
 	<listitem><para>
 		A part of a device.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>configuration file</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>configuration file</glossterm><glossdef>
 	<para>
 		A file that contains configuration information for a particular program. When the program is executed, it consults the configuration file to see what parameters are in effect.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>connectivity</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>connectivity</glossterm><glossdef>
 	<para>
 		A computer buzzword that refers to a program or device’s ability to link with other programs and devices. For example, a program that can import data from a wide variety of other programs and can export data in many different formats is said to have good connectivity. On the other hand, computers that have difficulty linking into a network (many laptop computers, for example) have poor connectivity.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>contractions</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>contractions</glossterm><glossdef>
 	<para>
 		Do not use. Contractions are a mark of informal writing, and should be avoided when writing policy manuals or other more formal types of manuals. They also cause problems for translation.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>control character</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>control character</glossterm><glossdef>
 	<para>
 		A special, non-printing character that begins, modifies, or ends a function, event, operation or control operation. The ASCII character set defines 32 control characters. Originally, these codes were designed to control teletype machines. Now, however, they are often used to control display monitors, printers, and other modern devices.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>control key</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>control key</glossterm><glossdef>
 	<para>
 		Use Ctrl instead, such as ‘To save the program, press Ctrl+Z’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Control Panel or control-panel</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Control Panel or control-panel</glossterm><glossdef>
 	<para>
 		When referring to a window, use Control Panel, such as ‘From the Settings menu, select Control Panel’. When referring to the command to start the control panel from X, use control-panel.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>control program</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>control program</glossterm><glossdef>
 	<para>
 		A program that enhances an operating system by creating an environment in which you can run other programs. Control programs generally provide a graphical interface and enable you to run several programs at once in different windows.
 	</para>
 	<para>
 		Control programs are also called operating environments.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>convert</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>convert</glossterm><glossdef>
 	<para>
 		To change data from one format to another.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>cookie</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>cookie</glossterm><glossdef>
 	<para>
 		A message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
 	</para>
@@ -439,33 +439,33 @@
 	<para>
 		The name ‘cookie’ derives from UNIX objects called magic cookies. These are tokens that are attached to a user or program and change depending on the areas entered by the user or program. Cookies are also sometimes called ‘persistent cookies’ because they typically stay in the browser for long periods of time.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>corrupted</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>corrupted</glossterm><glossdef>
 	<para>
 		Refers to data that has been damaged in some way.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>CR</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>CR</glossterm><glossdef>
 	<para>
 		Use if referring to code, such as ‘Type CR at the end of each line…’. If referring to the keyboard key, use either Enter or Return, depending upon the platform.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>cross-site scripting</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>cross-site scripting</glossterm><glossdef>
 	<para>
 		Correct. When referring to cross-site scripting attacks, use ‘cross-site scripting attack’. Acceptable use is also ‘cross-site (XSS) scripting attack’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>cross-platform</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>cross-platform</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘crossplatform’ or ‘cross platform’.
 	</para>
 	<para>
 		Refers to the capability of software or hardware to run identically on different platforms.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Cygmon</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Cygmon</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘CygMon,’ ‘cygmon,’ or ‘CYGMON’. An exception is if a command is being typed (such as cygmon).
 	</para>
 	<para>
 		Refer to it as ‘Cygmon: a ROM monitor,’ not ‘Cygmon: the Cygnus ROM monitor" or ‘Cygmon: the ROM monitor’.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-D"><title>D</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-D"><title>D</title>
 	 <glossentry><glossterm>daisy chain</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		(n) A hardware configuration in which devices are connected one to another in a series. The SCSI interface, for example, supports a daisy chain of up to 7 devices.
@@ -473,7 +473,7 @@
 	<listitem><para>
 		(v) To connect devices in a daisy chain pattern.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>data</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>data</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		(1) Distinct pieces of information, usually formatted in a special way. All software is divided into two general categories: data and programs. Programs are collections of instructions for manipulating data.
 	</para>
@@ -489,146 +489,146 @@
 	<listitem><para>
 		(3) In database management systems, data files are the files that store the database information, whereas other files, such as index files and data dictionaries, store administrative information, known as metadata.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>data mirroring</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>data mirroring</glossterm><glossdef>
 	<para>
 		The act of copying data from one location to a storage device in real time. Because the data is copied in real time, the information stored from the original location is always an exact copy of the data from the production device.
 	</para>
 	<para>
 		Data mirroring is useful in the speedy recovery of critical data after a disaster. Data mirroring can be implemented locally or offsite at a completely different location.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>data type</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>data type</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘datatype’ or ‘data-type"
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>dates</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>dates</glossterm><glossdef>
 	<para>
 		Use the April 1, 1999 or 1 APR 1999 format for dates.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>debug</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>debug</glossterm><glossdef>
 	<para>
 		To find and remove errors (bugs) from a program or design.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>denial of service (DoS)</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>denial of service (DoS)</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘denial-of-service’ or ‘Denial of Service’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>desktop</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>desktop</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘desk top’ or desk-top’.
 	</para>
 	<para>
 		In graphical user interfaces, a desktop is the metaphor used to portray file systems. Such a desktop consists of pictures, called icons, that show cabinets, files, folders, and various types of documents (that is, letters, reports, pictures). You can arrange the icons on the electronic desktop just as you can arrange real objects on a real desktop — moving them around, putting one on top of another, reshuffling them, and throwing them away.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>device</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>device</glossterm><glossdef>
 	<para>
 		Any machine or component that attaches to a computer. Examples of devices include disk drives, printers, mice, and modems. These particular devices fall into the category of peripheral devices because they are separate from the main computer.
 	</para>
 	<para>
 		Most devices, whether peripheral or not, require a program called a device driver that acts as a translator, converting general commands from an application into specific commands that the device understands.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>dialog box</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>dialog box</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘dialog’ on its own. For example, ‘Use the Project Preferences dialog box to specify project-specific parameters’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>dial-up access</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>dial-up access</glossterm><glossdef>
 	<para>
 		Refers to connecting a device to a network via a modem and a public telephone network. Dial-up access is really just like a phone connection, except that the parties at the two ends are computer devices rather than people. Because dial-up access uses normal telephone lines, the quality of the connection is not always good and data rates are limited. In the past, the maximum data rate with dial-up access was 56 Kbps (56,000 bits per second), but new technologies such as ISDN are providing faster rates.
 	</para>
 	<para>
 		An alternative way to connect two computers is through a leased line, which is a permanent connection between two devices. Leased lines provide faster throughput and better quality connections, but they are also more expensive.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>different</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>different</glossterm><glossdef>
 	<para>
 		Use ‘different from’ rather than ‘different than’ when the next part of the sentence is a noun or pronoun (that is, two things are being compared). For example:Form 123 is different from Form 124.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>disc</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>disc</glossterm><glossdef>
 	<para>
 		This is correct when referring to a compact disc, but not a diskette or hard disk.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>disk</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>disk</glossterm><glossdef>
 	<para>
 		This is correct when referring to a hard disk, but not a compact disc or floppy diskette.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>diskette</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>diskette</glossterm><glossdef>
 	<para>
 		This is correct when referring to a floppy diskette or a boot diskette.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>disk label</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>disk label</glossterm><glossdef>
 	<para>
 		Correct. Do not write as one word.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>deleting</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>deleting</glossterm><glossdef>
 	<para>
 		When referring to removing software from a system use ‘uninstall’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>DNS</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>DNS</glossterm><glossdef>
 	<para>
 		Short for Domain Name System (or Service), an Internet service that translates domain names into IP addresses.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>documentation</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>documentation</glossterm><glossdef>
 	<para>
 		When referring to the current manual set, use ‘documentation’. For example, ‘This manual is also available as part of our online documentation’. When referring to another manual, quote the title of the manual, such as ‘For further information, see the Getting Started Guide’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>domain name</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>domain name</glossterm><glossdef>
 	<para>
 		Correct. Do not use "domainname" or "domain-name".
 	</para>
 	<para>
 		A name that identifies one or more IP addresses. For example, the domain name microsoft.com represents about a dozen IP addresses. Domain names are used in URLs to identify particular web pages. For example, in the URL http://www.redhat.com/docs, the domain name is redhat.com.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>double-click</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>double-click</glossterm><glossdef>
 	<para>
 		Correct. Do not use "double click".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>download</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>download</glossterm><glossdef>
 	<para>
 		Correct. Do not use "down load" or "down-load".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>dual-boot</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>dual-boot</glossterm><glossdef>
 	<para>
 		Do not use dualboot or dual boot.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>dude</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>dude</glossterm><glossdef>
 	<para>
 		Slang. Do not use.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>DVD writer</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>DVD writer</glossterm><glossdef>
 	<para>
 		Correct. Do not use DVD burner or CD burner (use CD writer in that case). Reason, it is colloquial.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-E"><title>E</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-E"><title>E</title>
 	 <glossentry><glossterm>e.g.</glossterm><glossdef>
 	<para>
 		Spell it out: "For example".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>earlier</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>earlier</glossterm><glossdef>
 	<para>
 		Refer to later
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Emacs</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Emacs</glossterm><glossdef>
 	<para>
 		If referring to the program, use ‘Emacs’. For example, ’Source-Navigator supports Emacs or vi commands’. If referring to the shell prompt command, use ‘emacs’. For example, ‘At the prompt, type emacs’. The proper name is: GNU Emacs.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>email</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>email</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘E-mail’ or ‘e-mail’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>embedded object</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>embedded object</glossterm><glossdef>
 	<para>
 		An object created with one application and embedded into a document created by another application. Embedding the object, rather than simply inserting or pasting it, ensures that the object retains its original format. In fact, you can modify the embedded object with the original program.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>encryption</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>encryption</glossterm><glossdef>
 	<para>
 		The translation of data into a secret code. Encryption is the most effective way to achieve data security. To read an encrypted file, you must have access to a secret key or password that enables you to decrypt it. Unencrypted data is called plain text ; encrypted data is referred to as ciphertext.
 	</para>
 	<para>
 		There are two main types of encryption: asymmetric encryption (also called public-key encryption) and symmetric encryption.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>ensure</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>ensure</glossterm><glossdef>
 	<para>
 		This means ‘to make sure, certain, or safe; guarantee’. For example, ‘Perform the following steps to ensure a network and serial connection’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>enter</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>enter</glossterm><glossdef>
 	<para>
 		When referring to the keyboard key, use Enter. If referring to the keyboard key on Solaris, use Return.
 	</para>
@@ -638,7 +638,7 @@
 	<para>
 		When typing information into a single-field dialog box, ‘enter’ means ‘type and press Enter’. An example is ‘Enter the license number’. For multi-field dialog boxes, see type.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>environment</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>environment</glossterm><glossdef>
 	<para>
 		The state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a UNIX environment, it means running a program on a computer that has the UNIX operating system.
 	</para>
@@ -648,71 +648,71 @@
 	<para>
 		Another term for environment in this sense is platform.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>essentially</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>essentially</glossterm><glossdef>
 	<para>
 		Do not use. See basically.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Ethernet</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Ethernet</glossterm><glossdef>
 	<para>
 		A local-area network (LAN) architecture developed by Xerox Corporation in cooperation with DEC and Intel in 1976. Ethernet uses a bus or star topology and supports data transfer rates of 10 Mbps. The Ethernet specification served as the basis for the IEEE 802.3 standard, which specifies the physical and lower software layers. Ethernet uses the CSMA/CD access method to handle simultaneous demands. It is one of the most widely implemented LAN standards.
 	</para>
 	<para>
 		A newer version of Ethernet, called 100Base-T (or Fast Ethernet), supports data transfer rates of 100 Mbps. And the newest version, Gigabit Ethernet supports data rates of 1 gigabit (1,000 megabits) per second.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>event</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>event</glossterm><glossdef>
 	<para>
 		An action or occurrence detected by a program. Events can be user actions, such as clicking a mouse button or pressing a key, or system occurrences, such as running out of memory.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>exclamation points (!)</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>exclamation points (!)</glossterm><glossdef>
 	<para>
 		Do not use them at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>execute</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>execute</glossterm><glossdef>
 	<para>
 		Same as run. Execute means to perform an action, as in executing a program or a command.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Exif</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Exif</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘EXIF’. Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as ‘Exif Print’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>extranet</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>extranet</glossterm><glossdef>
 	<para>
 		A new buzzword that refers to an intranet that is partially accessible to authorized outsiders. Whereas an intranet resides behind a firewall and is accessible only to people who are members of the same company or organization, an extranet provides various levels of accessibility to outsiders. You can access an extranet only if you have a valid username and password, and your identity determines which parts of the extranet you can view.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-F"><title>F</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-F"><title>F</title>
 	 <glossentry><glossterm>failover</glossterm><glossdef>
 	<para>
 		When used as a noun, a failover is a backup operation that automatically switches to a standby database, server or network if the primary system fails or is temporarily shut down for servicing. Failover is an important fault tolerance function of mission-critical systems that rely on constant accessibility. Failover automatically and transparently to the user redirects requests from the failed or down system to the backup system that mimics the operations of the primary system.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>fail over</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>fail over</glossterm><glossdef>
 	<para>
 		When used as a verb, fail over is two words since there can be different tenses such as failed over.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>FAQ</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>FAQ</glossterm><glossdef>
 	<para>
 		When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as ‘an FAQ’ (to be read as ‘an F-A-Q) not ‘a FAQ’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>fault tolerance</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>fault tolerance</glossterm><glossdef>
 	<para>
 		The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations — that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>fiber</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>fiber</glossterm><glossdef>
 	<para>
 		Correct. Despite the alternative spelling used in Fibre Channel, "fiber" is the correct form to use in all other cases.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Fibre Channel</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Fibre Channel</glossterm><glossdef>
 	<para>
 		A serial data transfer architecture developed by a consortium of computer and mass storage device manufacturers and now being standardized by ANSI. The most prominent Fibre Channel standard is Fibre Channel Arbitrated Loop (FC-AL). FC-AL was designed for new mass storage devices and other peripheral devices that require very high bandwidth. Using optical fibre to connect devices, FC-AL supports full-duplex data transfer rates of 100MBps. FC-AL is compatible with, and is expected to eventually replace, SCSI for high-performance storage systems.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>field</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>field</glossterm><glossdef>
 	<para>
 		Do not use ‘field’ on its own. Instead name the field, such as ‘In the Name field, type the name of the program to debug’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>file name</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>file name</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘filename’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>file system</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>file system</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘filesystem’.
 	</para>
@@ -722,56 +722,56 @@
 	<para>
 		Although the operating system provides its own file management system, you can buy separate file management systems. These systems interact smoothly with the operating system but provide more features, such as improved backup procedures and stricter file protection.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>file system — flat file system</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>file system — flat file system</glossterm><glossdef>
 	<para>
 		A system of organizing files in an operating system in which all files are stored in a single directory. In contrast to a hierarchical file system, in which there are directories and subdirectories and different files can have the same name as long as they are stored in different directories, in a flat file system every file must have a different name because there is only one list of files. Early versions of the Macintosh and DOS operating systems used a flat file system. Modern commercial operating systems use a hierarchical file system.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>file system — hierarchical file system</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>file system — hierarchical file system</glossterm><glossdef>
 	<para>
 		Refers to systems that are organized in the shape of a pyramid, with each row of objects linked to objects directly beneath it.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>firmware</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>firmware</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘firm ware’ or ‘firm-ware’.
 	</para>
 	<para>
 		Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs and EPROMs that have data or programs recorded on them are firmware.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>floating point</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>floating point</glossterm><glossdef>
 	<para>
 		Correct. Do not hyphenate.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>floppy disk</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>floppy disk</glossterm><glossdef>
 	<para>
 		Do not use. Instead, use "diskette", and also state the size of the diskette, such as "3.5in. diskette".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>floppy drive</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>floppy drive</glossterm><glossdef>
 	<para>
 		Do not use. Instead use "diskette drive".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>foreground</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>foreground</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the foreground process.
 	</para></listitem>
 	<listitem><para>
 		On display screens, the foreground consists of the characters and pictures that appear on the screen. The background is the uniform canvas behind the characters and pictures.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>FORTRAN</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>FORTRAN</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘Fortran’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>forward</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>forward</glossterm><glossdef>
 	<para>
 		Correct. Avoid using ‘forwards’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>FQDN</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>FQDN</glossterm><glossdef>
 	<para>
 		A fully qualified domain name consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and.com is the top level domain.
 	</para>
 	<para>
 		A FQDN always starts with a host name and continues all the way up to the top-level domain name, so www.parc.xerox.com is also a FQDN.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>front end and front-end</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>front end and front-end</glossterm><glossdef>
 	<para>
 		‘Front end’ is a noun, ‘front-end’ is an adjective.
 	</para>
@@ -784,121 +784,121 @@
 	<para>
 		Do not use ‘frontend’ as noun or adjective.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>FTP</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>FTP</glossterm><glossdef>
 	<para>
 		Use all caps when referring to the protocol. Use lowercase when referring to the command-line program.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Futexes</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Futexes</glossterm><glossdef>
 	<para>
 		Correct. "Futex" is an abbreviation of "fast user-space mutex". Consequently, "futexes" is the correct plural form.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Fuzzy</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Fuzzy</glossterm><glossdef>
 	<para>
 		Correct only when referring to fuzzy searches. Refer to AvoidingSlang for details and examples.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-G"><title>G</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-G"><title>G</title>
 	 <glossentry><glossterm>g++ or G++</glossterm><glossdef>
 	<para>
 		When referring to the command, use g++. When referring to the program, use G++.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>gas or GAS</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>gas or GAS</glossterm><glossdef>
 	<para>
 		When referring to the command, use gas. When referring to the program, use GAS.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Gbps</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Gbps</glossterm><glossdef>
 	<para>
 		Short for Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>gcc or GCC</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>gcc or GCC</glossterm><glossdef>
 	<para>
 		When referring to the command, use gcc. When referring to the program, use GCC.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>gcj or GCJ</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>gcj or GCJ</glossterm><glossdef>
 	<para>
 		When referring to the command, use gcj. When referring to the program, use GCJ.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>gdb or GDB</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>gdb or GDB</glossterm><glossdef>
 	<para>
 		When referring to the command, use gdb. When referring to the program, use GDB.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GDBTK</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GDBTK</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘Insight’ instead. GDBTK is an obsolete name for the GNU debugger.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GID</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GID</glossterm><glossdef>
 	<para>
 		Abbreviation for Group ID. Do not use ‘gid’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>gigabyte</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>gigabyte</glossterm><glossdef>
 	<para>
 		2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte", use "GB".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GIMP</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GIMP</glossterm><glossdef>
 	<para>
 		Acronym for GNU Image Manipulation Program. Do not use ’Gimp’ or ‘gimp’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GNOME</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GNOME</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘gnome,’ ‘Gnome,’ or other variants.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GNU</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GNU</glossterm><glossdef>
 	<para>
 		Recursive acronym for ‘GNU’s Not UNIX’. Do not use ‘Gnu’ or ’gnu’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GNU Emacs</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GNU Emacs</glossterm><glossdef>
 	<para>
 		See Emacs.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>got</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>got</glossterm><glossdef>
 	<para>
 		Do not use.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GPL</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GPL</glossterm><glossdef>
 	<para>
 		Acronym for General Public License. Do not use ‘Gpl’ or ’gpl’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>granularity</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>granularity</glossterm><glossdef>
 	<para>
 		The extent to which a system contains separate components (like granules). The more components in a system — or the greater the granularity — the more flexible it is.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>gray</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>gray</glossterm><glossdef>
 	<para>
 		Correct. This option will be grayed out’. Do not use ‘grey’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GRUB</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GRUB</glossterm><glossdef>
 	<para>
 		Correct. All caps. Do not use ‘Grub’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>GTK+</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>GTK+</glossterm><glossdef>
 	<para>
 		Acronym for GIMP Tool Kit. Do not use ‘GTK,’ ‘Gtk,’ or ’gtk’.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-H"><title>H</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-H"><title>H</title>
 	<glossentry><glossterm>hardcode</glossterm><glossdef>
 	<para>
 		Do not use. Use "hard-coded" (adjective) or "hard code" (verb).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hardcopy</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hardcopy</glossterm><glossdef>
 	<para>
 		Do not use. Instead, use ‘printed’. For example: ‘To order the printed documentation…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hard disk</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hard disk</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘harddisk’ or ‘hard-disk’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hard drive</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hard drive</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘harddrive’ or ‘hard-drive’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>he/she</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>he/she</glossterm><glossdef>
 	<para>
 		Do not use. See you.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>high-availability</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>high-availability</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘high availability’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>homepage</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>homepage</glossterm><glossdef>
 	<para>
 		This is now preferred to the older, two-word presentation: ‘home page’.
 	</para>
@@ -914,137 +914,137 @@
 	<para>
 		If there is any possibility of confusion, re-write to avoid the term.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hostname</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hostname</glossterm><glossdef>
 	<para>
 		Correct. One word, lowercase. Capitalize when used at the beginning of a sentence, but try to reword the sentence to avoid this.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hot add</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hot add</glossterm><glossdef>
 	<para>
 		Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use ‘hotadd’ or ‘hot-add’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hot plug</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hot plug</glossterm><glossdef>
 	<para>
 		Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use ‘hotplug’ or ‘hot-plug’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hot swap</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hot swap</glossterm><glossdef>
 	<para>
 		Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use ‘hotswap’ or ‘hot-swap’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>HOWTO</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>HOWTO</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘howto’ or ‘Howto’. The plural is ’HOWTOs’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>HTML</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>HTML</glossterm><glossdef>
 	<para>
 		When referring to the language, use ‘HTML,’ such as ‘To see the HTML version of this documentation…’. When referring to a web page extension, use ‘html,’ such as ‘The main page is index.html’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Hyper-Threading</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Hyper-Threading</glossterm><glossdef>
 	<para>
 		Hyper-Threading is Intel's implementation of simultaneous multithreading. Do not use hyperthreading or hyper-threading. If you are not referring specifically to Intel's implementation, use ‘simultaneous multithreading’ or ‘SMT’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>hypervisor</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>hypervisor</glossterm><glossdef>
 	<para>
 		Correct. Do not use ?HyperVisor or Hyperviser.
 	</para>
-	</glossdef></glossentry>
+	<para role="attr">RH:1008</para></glossdef></glossentry>
 	</glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-I"><title>I</title>
 	<glossentry><glossterm>i.e.</glossterm><glossdef>
 	<para>
 		Spell it out: ‘That is’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>if you want</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>if you want</glossterm><glossdef>
 	<para>
 		Do not use. For example, instead of saying ‘If you want to perform an action…’, say ’To perform an action…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>if you wish</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>if you wish</glossterm><glossdef>
 	<para>
 		Do not use. For example, instead of saying ‘If you wish to perform an action…’, say ’To perform an action…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>in concert with</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>in concert with</glossterm><glossdef>
 	<para>
 		Do not use. Instead, say ‘with’. For example, change ‘Use gcov in concert with GCC to analyze…’ to ‘Use gcov with GNU CC to analyze…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>indexes</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>indexes</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘indices’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>inline</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>inline</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘in-line’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>insecure</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>insecure</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘nonsecure’ or ‘non-secure’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>installation program</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>installation program</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘installer’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>installer</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>installer</glossterm><glossdef>
 	<para>
 		Do not use ‘installer’. Use ‘installation program’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>insure</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>insure</glossterm><glossdef>
 	<para>
 		"Insure’ refers to insurance. Use ensure.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>integrated</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>integrated</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		A popular computer buzzword that refers to two or more components merged together into a single system. For example, any software product that performs more than one task can be described as integrated.
 	</para></listitem>
 	<listitem><para>
 		Increasingly, the term integrated software is reserved for applications that combine word processing, database management, spreadsheet functions, and communications into a single package.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>interesting</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>interesting</glossterm><glossdef>
 	<para>
 		Avoid using, as this is a substitute for showing the reader why something is of interest. For example, change ‘It is interesting to note…’. to ‘Note…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Internet or internet</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Internet or internet</glossterm><glossdef>
 	<para>
 		Use ‘Internet’ when referring to a large internet comprising large national backbone nets and various regional and local networks worldwide: ‘The Internet used the Internet Protocol suite’.
 	</para>
 	<para>
 		Use internet when referring to a collection of networks that function as a single larger virtual network.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Intranet or intranet</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Intranet or intranet</glossterm><glossdef>
 	<para>
 		Internets are networks based on TCP, IP and various other protocols. An internet belonging to an organization, usually a corporation, accessible only by the organization’s members, employees, or others with authorization. An intranet’s websites look and act just like any other websites, but the firewall surrounding an intranet fends off unauthorized access.
 	</para>
 	<para>
 		Like the Internet itself, intranets are used to share information. Secure intranets are now the fastest-growing segment of the Internet because they are much less expensive to build and manage than private networks based on proprietary protocols.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>I/O</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>I/O</glossterm><glossdef>
 	<para>
 		Correct. "I/O" is short for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>IP</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>IP</glossterm><glossdef>
 	<para>
 		Correct. "IP" is short for "Internet Protocol". Capitalize both letters.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>IP Masquerade</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>IP Masquerade</glossterm><glossdef>
 	<para>
 		A Linux networking function. IP Masquerade, also called IPMASQ or MASQ, allows one or more computers in a network without assigned IP addresses to communicate with the Internet using the Linux server’s assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it, so to other machines on the Internet the outgoing traffic appears to be coming from the IPMASQ server and not the internal PCs.
 	</para>
 	<para>
 		Since IPMASQ is a generic technology the server can be connected to other computers through LAN technologies like Ethernet, Token Ring, and FDDI, as well as dialup connections like PPP or SLIP.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>IPsec</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>IPsec</glossterm><glossdef>
 	<para>
 		IPsec stands for Internet Protocol Security. According to its RFC, IPsec should be used. Do not use ‘IPSec’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>IP switching</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>IP switching</glossterm><glossdef>
 	<para>
 		A new type of IP routing developed by Ipsilon Networks, Inc. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>ISV</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>ISV</glossterm><glossdef>
 	<para>
 		Short for Independent Software Vendor, a company that produces software.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>it’s and its</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>it’s and its</glossterm><glossdef>
 	<para>
 		‘It’s’ is a contraction for ‘it is,’ use ‘it is’ instead of ‘it’s’. Use ‘its’ as a possessive pronoun (for example, ‘the store is known for its low prices’).
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-J"><title>J</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-J"><title>J</title>
 	 <glossentry><glossterm>jabber</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		An error in which a faulty device (usually a NIC ) continuously transmits corrupted or meaningless data onto a network. This may halt the entire network from transmitting data because other devices will perceive the network as busy.
@@ -1052,109 +1052,109 @@
 	<listitem><para>
 		a sent data packet greater than the maximum 1518 bytes specified in IEEE 802.3. To prevent this, jabber control should be added to the hardware to make the circuitry incapable of sending information for more than 150 milliseconds (approximately 1500 bytes).
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>job</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>job</glossterm><glossdef>
 	<para>
 		A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>just</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>just</glossterm><glossdef>
 	<para>
 		Use sparingly. In the phrase, ‘Just point your browser to…’. the word ‘just’ can be omitted.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>JVM</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>JVM</glossterm><glossdef>
 	<para>
 		Acronym for Java Virtual Machine. Do not use Jvm or jvm.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-K"><title>K</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-K"><title>K</title>
 	 <glossentry><glossterm>Kbps</glossterm><glossdef>
 	<para>
 		Short for kilobits per second, a measure of data transfer speed. Modems, for example, are measured in Kbps. Note that one Kbps is 1,000 bits per second, whereas a KB (kilobyte) is 1,024 bytes. Data transfer rates are measured using the decimal meaning of K whereas data storage is measured using the powers-of-2 meaning of K. Technically, kbps should be spelled with a lowercase k to indicate that it is decimal but almost everyone spells it with a capital K.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>kerberize</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>kerberize</glossterm><glossdef>
 	<para>
 		Incorrect. Do not use "kerberize", "kerberized", or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled", or rewrite the sentence.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>kernel</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>kernel</glossterm><glossdef>
 	<para>
 		The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>kernel-space</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>kernel-space</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘kernelspace’ or ‘kernel space’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>keyboard key</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>keyboard key</glossterm><glossdef>
 	<para>
 		When referring to a keyboard key, it is uppercase, singular, and the word ‘key’ is not necessary, such as ‘To exit, press X’. When the Ctrl or Alt keys are needed, use a plus sign between the keys, such as ‘To save the file, press Ctrl+S’.
 	</para>
 	<para>
 		See also spacebar.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>kill</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>kill</glossterm><glossdef>
 	<para>
 		If terminating a UNIX process, use kill. For example, "To terminate the process, type kill -9 number". If terminating a Windows process, use "terminate". For example, "To terminate the process, press Q."
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>kilobit</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>kilobit</glossterm><glossdef>
 	<para>
 		Correct. The correct abbreviation is ‘Kb,’ not ‘KB’ or ‘kb’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>kilobyte</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>kilobyte</glossterm><glossdef>
 	<para>
 		Correct. The correct abbreviation is ‘KB,’ not ‘Kb’ or ‘kb’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>knowledgebase</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>knowledgebase</glossterm><glossdef>
 	<para>
 		Incorrect. Use "knowledge base".
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-L"><title>L</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-L"><title>L</title>
 	 <glossentry><glossterm>LAN</glossterm><glossdef>
 	<para>
 		Correct. This is an acronym for Local Area Network. Do not use Lan or lan.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>latency</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>latency</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		In general, the period of time that one component in a system is spinning its wheels waiting for another component. Latency, therefore, is wasted time. For example, in accessing data on a disk, latency is defined as the time it takes to position the proper sector under the read/write head.
 	</para></listitem>
 	<listitem><para>
 		In networking, the amount of time it takes a packet to travel from source to destination. Together, latency and bandwidth define the speed and capacity of a network.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>later/newer</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>later/newer</glossterm><glossdef>
 	<para>
 		When referring to more recent versions of a product, package, or other software, use "later", and not "newer" or any other terms. The converse applies when referring to earlier versions. That is, use "earlier", and not "older" or any other terms.
 	</para>
 	<para>
 		For example, "MyProduct 5.0 and later use the Wonderful system of synchronization. Earlier releases of MyProduct use the Mediocre system."
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>launch</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>launch</glossterm><glossdef>
 	<para>
 		To start a program.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>leave out</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>leave out</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘omit’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>left-click</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>left-click</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘left click’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>license</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>license</glossterm><glossdef>
 	<para>
 		Commonwealth English still treats license and licence as different words: licence is the noun, license is the verb. US English does not, spelling both the noun and the verb ‘license’.
 	</para>
 	<para>
 		US English still recognises ‘licence’ as a legitmate spelling. It recognises it as a British spelling, however, not as a way of distinguishing the noun from the verb. We follow US English practice and use a single spelling for both the noun and the verb.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>life-cycle</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>life-cycle</glossterm><glossdef>
 	<para>
 		When referring to a software life-cycle, use life-cycle. Do not use ‘lifecycle’ or ‘life cycle’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>like</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>like</glossterm><glossdef>
 	<para>
 		Do not use as a conjunction; use ‘such as’ instead. Correct: ‘Open a text editor, such as Pico’. Incorrect: ‘Open a text editor, like Pico’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>list</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>list</glossterm><glossdef>
 	<para>
 		When referring to the UNIX command, use ls instead. See ls for more information.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>load</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>load</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		To install. For example, to load a disk means to mount it in a disk drive.
 	</para></listitem>
@@ -1167,19 +1167,19 @@
 	<listitem><para>
 		In networking, load refers to the amount of data (traffic) being carried by the network.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>load balancing</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>load balancing</glossterm><glossdef>
 	<para>
 		Distributing processing and communications activity evenly across a computer network so that no single device is overwhelmed. Load balancing is especially important for networks where it’s difficult to predict the number of requests that will be issued to a server. Busy websites typically employ two or more web servers in a load balancing scheme. If one server starts to get swamped, requests are forwarded to another server with more capacity. Load balancing can also refer to the communications channels themselves.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>local-area network</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>local-area network</glossterm><glossdef>
 	<para>
 		See LAN.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>logging in</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>logging in</glossterm><glossdef>
 	<para>
 		Refers to the log in process.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>logical topology</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>logical topology</glossterm><glossdef>
 	<para>
 		Also called signal topology. Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The way that the workstations are connected to the network through the actual cables that transmit data — the physical structure of the network — is called the physical topology. The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
 	</para>
@@ -1189,23 +1189,23 @@
 	<para>
 		A network’s logical topology is not necessarily the same as its physical topology. For example, twisted pair Ethernet is a logical bus topology in a physical star topology layout. While IBM’s Token Ring is a logical ring topology, it is physically set up in a star topology.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>login</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>login</glossterm><glossdef>
 	<para>
 		A noun used to refer to the login prompt, such as ‘At the login prompt, enter your username’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>log in</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>log in</glossterm><glossdef>
 	<para>
 		A verb used to refer to the act of logging in. Do not use "login", "logon", or other variants. For example, "When starting your computer, you are requested to log in...".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>log on</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>log on</glossterm><glossdef>
 	<para>
 		To make a computer system or network recognize you so that you can begin a computer session. Most personal computers have no log-on procedure — you just turn the machine on and begin working. For larger systems and networks, however, you usually need to enter a username and password before the computer system will allow you to execute programs.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>log out</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>log out</glossterm><glossdef>
 	<para>
 		To end a session at the computer. For personal computers, you can log out simply by exiting applications and turning the machine off. On larger computers and networks, where you share computer resources with other users, there is generally an operating system command that lets you log off.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>lookup</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>lookup</glossterm><glossdef>
 	<para>
 		As a noun, correct.
 	</para>
@@ -1215,30 +1215,30 @@
 	<para>
 		As a modifier, hyphenate. For example, "a look-up table".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>look at</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>look at</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘examine’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>loopback address</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>loopback address</glossterm><glossdef>
 	<para>
 		The loopback address is a special IP number (127.0.0.1) that is designated for the software loopback interface of a machine. The loopback interface has no hardware associated with it, and it is not physically connected to a network.
 	</para>
 	<para>
 		The loopback interface allows IT professionals to test IP software without worrying about broken or corrupted drivers or hardware.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>lots of</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>lots of</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘many’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>LPAR</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>LPAR</glossterm><glossdef>
 	<para>
 		Short for logical partitioning, a system of taking a computer’s total resources — processors, memory and storage — and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Since the partitions in effect act as separate physical machines, they can communicate with each other. IBM was the first to use logical partitioning in 1976.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>ls</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>ls</glossterm><glossdef>
 	<para>
 		When referring to the UNIX list command, use ls. For example, ’Type ls for the list of files in the directory’.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-M"><title>M</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-M"><title>M</title>
 	 <glossentry><glossterm>make sure</glossterm><glossdef>
 	<para>
 		This means ‘be careful to remember, attend to, or find out something’. For example, ‘make sure the rhedk group is listed in the output’.
@@ -1246,34 +1246,34 @@
 	<para>
 		You may be able to use verify or ensure instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>manual/man page</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>manual/man page</glossterm><glossdef>
 	<para>
 		Correct. Two words. Do not use ‘manpage’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>matrixes</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>matrixes</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘matrices’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>may/can</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>may/can</glossterm><glossdef>
 	<para>
 		Use ‘can’ to describe actions or conditions that are possible. Use ‘may’ only to describe situations where permission is being given. If either ‘can,’ ‘could,’ or "may’ apply, use ‘can’ because it’s less tentative.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>MB</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>MB</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		When spelled MB, short for megabyte (1,000,000 or 1,048,576 bytes, depending on the context).
 	</para></listitem>
 	<listitem><para>
 		When spelled Mb, short for megabit.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>MBps</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>MBps</glossterm><glossdef>
 	<para>
 		Short for megabytes per second, a measure of data transfer speed. Mass storage devices are generally measured in MBps.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>MBR</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>MBR</glossterm><glossdef>
 	<para>
 		Short for Master Boot Record, a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process. In DOS and Windows systems, you can create the MBR with the FDISK /MBR command.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>media</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>media</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes.
 	</para></listitem>
@@ -1283,120 +1283,120 @@
 	<listitem><para>
 		The form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>menu-driven</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>menu-driven</glossterm><glossdef>
 	<para>
 		Correct. Do not use "menu driven" or "menudriven".
 	</para>
 	<para>
 		Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>metadata</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>metadata</glossterm><glossdef>
 	<para>
 		Correct. Do not use "meta data" or "meta-data".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>mount</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>mount</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
 	</para></listitem>
 	<listitem><para>
 		To install a device, such as a disk drive or expansion board.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>mouse button</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>mouse button</glossterm><glossdef>
 	<para>
 		Do not use ‘mouse-button’ or ‘mousebutton’. If you need to indicate which mouse button, put ‘right,’ ‘left,’ or ‘center’ at the beginning of the string, with no hyphen in between, such as ‘right mouse button’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>multiprocessing</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>multiprocessing</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘multi-processing’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>must</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>must</glossterm><glossdef>
 	<para>
 		Use when referring to a task that is necessary for the user to do. For example, ’You must make a backup’ is a requirement, while ‘You should make a back-up’ is a suggestion.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Mutexes</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Mutexes</glossterm><glossdef>
 	<para>
 		Correct. "Mutex" is an abbreviation of "mutual exclusion". Consequently, "mutexes" is the correct plural form.
 	</para>
-	</glossdef></glossentry>
+	<para role="attr">RH:1008</para></glossdef></glossentry>
 	</glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-N"><title>N</title>
 	 <glossentry><glossterm>nameserver</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘name server’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>namespace</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>namespace</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘name space’ or ‘name-space’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>need</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>need</glossterm><glossdef>
 	<para>
 		Use ‘need’ instead of ‘desire’ and ‘wish’. Use ‘want’ when the reader’s actions are optional (that is, they may not ‘need’ something but may still ‘want" something).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>needs, needs to be, need to</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>needs, needs to be, need to</glossterm><glossdef>
 	<para>
 		Avoid when possible. Suggested alternatives include ‘must,’ ’required,’ or ‘should’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>neighbor</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>neighbor</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘neighbour’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>network</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>network</glossterm><glossdef>
 	<para>
 		A group of two or more computer systems linked together.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>network transparency</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>network transparency</glossterm><glossdef>
 	<para>
 		A condition in which an operating system or other service allows the user access to a remote resource through a network without needing to know if the resource is remote or local. For example, Sun Microsystems’ NFS, which has become a de facto industry standard, provides access to shared files through an interface called the Virtual File System (VFS) that runs on top of the TCP/IP stack. Users can manipulate shared files as if they were stored locally on the user’s own hard disk.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>newer</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>newer</glossterm><glossdef>
 	<para>
 		Refer to later
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>NFS</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>NFS</glossterm><glossdef>
 	<para>
 		Abbreviation of Network File System, a client/server application designed by Sun Microsystems that allows all network users to access shared files stored on computers of different types. NFS provides access to shared files through an interface called the Virtual File System (VFS) that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user’s own hard disk.
 	</para>
 	<para>
 		With NFS, computers connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>node</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>node</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		(1) In networks, a processing location. A node can be a computer or some other device, such as a printer. Every node has a unique network address, sometimes called a Data Link Control (DLC) address or Media Access Control (MAC) address.
 	</para></listitem>
 	<listitem><para>
 		(2) In tree structures, a point where two or more lines meet.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>nonsecure</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>nonsecure</glossterm><glossdef>
 	<para>
 		Do not use. Use ‘insecure’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>NULL or null</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>NULL or null</glossterm><glossdef>
 	<para>
 		When a command or value is stated, use NULL. When stating that something is null, use ‘null,’ all lowercase.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>numbers</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>numbers</glossterm><glossdef>
 	<para>
 		Spell out numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of…), and very large values, (4 billion). Use numerals for numbers 10 and greater, negative numbers, fractions, percentages, decimals, measurements, references to book sections (Chapter 3, Table 5, Page 11), and numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (You answered 8 out of 14 questions correctly). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions.
 	</para>
 	<para>
 		Do not use commas in numbers with four digits (use 1000 rather than 1,000). Do use commas in numbers with five or more digits (10,000; 123,456,789; 1,000,000,000).
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-O"><title>O</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-O"><title>O</title>
 	 <glossentry><glossterm>Objective C</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘Objective-C’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>object-oriented</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>object-oriented</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘object oriented’ or ’objectoriented’. This is a modifier, such as ‘Java is an object-oriented language’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>OEM</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>OEM</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		(n) Stands for original equipment manufacturer, which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term is really a misnomer because OEMs are not the original manufacturers — they are the customizers.
 	</para></listitem>
 	<listitem><para>
 		(v) To provide equipment to another company, an OEM, which customizes and markets the equipment.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>offline</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>offline</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘off-line’.
 	</para>
@@ -1406,56 +1406,56 @@
 	<para>
 		‘Offline’ is considered a legitimate alternative (as compared to an incorrect) spelling in several corpora, including WordNet and the OED. Given this it is reasonable to assume the hyphen will eventually disappear, putting our usage rule a little bit but not too far ahead of the current usage curve.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>OK</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>OK</glossterm><glossdef>
 	<para>
 		When referring to the OK button, it is not necessary to use ‘button’ in the sentence; use ‘Click OK to close the dialog box’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>online</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>online</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘on-line’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>on-the-fly</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>on-the-fly</glossterm><glossdef>
 	<para>
 		Do not use. Avoid using idioms, as this saying is not globally known. Substitute ‘real time’ or similar instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>oops</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>oops</glossterm><glossdef>
 	<para>
 		Avoid if at all possible. If usage cannot be avoided, the correct term is "kernel Oops". Do not use "oops", "OOPS", or any other variation. The preferred term is always "kernel panic".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>opcodes</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>opcodes</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘op-codes’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>open architecture</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>open architecture</glossterm><glossdef>
 	<para>
 		An architecture whose specifications are public. This includes officially approved standards as well as privately designed architectures whose specifications are made public by the designers. The opposite of open is closed or proprietary.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>open source</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>open source</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘OpenSource,’ ‘opensource,’ or ’open-source’ (obviously, capitalize ‘open source’ at the beginning of a sentence).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>operating system</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>operating system</glossterm><glossdef>
 	<para>
 		Correct. Do not use Operating System, or OS.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>orientate</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>orientate</glossterm><glossdef>
 	<para>
 		Do not use. A user becomes ‘oriented’ to an environment. Try a synonym such as ‘familiarize,’ as in ‘This section helps familiarize you with the environment’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>output device</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>output device</glossterm><glossdef>
 	<para>
 		Any machine capable of representing information from a computer. This includes display screens, printers, plotters, and synthesizers.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>override</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>override</glossterm><glossdef>
 	<para>
 		Correct. Do not use "over-ride" or "over ride".
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-P"><title>P</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-P"><title>P</title>
 	 <glossentry><glossterm>packet</glossterm><glossdef>
 	<para>
 		A piece of a message transmitted over a packet-switching network. See under packet switching. One of the key features of a packet is that it contains the destination address in addition to the data. In IP networks, packets are often called datagrams.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>packet-switching</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>packet-switching</glossterm><glossdef>
 	<para>
 		Refers to protocols in which messages are divided into packets before they are sent. Each packet is then transmitted individually and can even follow different routes to its destination. Once all the packets forming a message arrive at the destination, they are recompiled into the original message.
 	</para>
@@ -1465,7 +1465,7 @@
 	<para>
 		A new technology, ATM, attempts to combine the best of both worlds — the guaranteed delivery of circuit-switched networks and the robustness and efficiency of packet-switching networks.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>palmtop</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>palmtop</glossterm><glossdef>
 	<para>
 		Correct. Using PDA is preferred.
 	</para>
@@ -1478,14 +1478,14 @@
 	<para>
 		Palmtops are also called PDAs, hand-held computers and pocket computers.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>pc or PC</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>pc or PC</glossterm><glossdef>
 	<para>
 		When referring to program counter, use pc. The first instance must have the acronym defined, such as ‘program counter (pc)’.
 	</para>
 	<para>
 		When referring to a general computer, use ‘PC’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>PDA</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>PDA</glossterm><glossdef>
 	<para>
 		Short for personal digital assistant, a handheld device that combines computing, telephone/fax, and networking features. A typical PDA can function as a cellular phone, fax sender, and personal organizer. Unlike portable computers, most PDAs began as pen-based, using a stylus rather than a keyboard for input. This means that they also incorporated handwriting recognition features. Some PDAs can also react to voice input by using voice recognition technologies.
 	</para>
@@ -1495,23 +1495,23 @@
 	<para>
 		PDAs are also called palmtops, hand-held computers and pocket computers.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>peer-to-peer architecture</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>peer-to-peer architecture</glossterm><glossdef>
 	<para>
 		A type of network in which each workstation has equivalent capabilities and responsibilities. This differs from client/server architectures, in which some computers are dedicated to serving the others. Peer-to-peer networks are generally simpler, but they usually do not offer the same performance under heavy loads.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>peripheral device</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>peripheral device</glossterm><glossdef>
 	<para>
 		A computer device, such as a CD-ROM drive or printer, that is not part of the essential computer, for example, the memory and microprocessor. Peripheral devices can be external — such as a mouse, keyboard, printer, monitor, external Zip drive or scanner — or internal, such as a CD-ROM drive, CD-R drive or internal modem. Internal peripheral devices are often referred to as integrated peripherals. Also see I/O.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Pico</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Pico</glossterm><glossdef>
 	<para>
 		Capitalize when referring to the text editor or to the programming language. Do not capitalize when referring to the SI prefix.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>plain text</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>plain text</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘plaintext,’ ‘plain-text,’ or ‘clear text’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>platform</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>platform</glossterm><glossdef>
 	<para>
 		The underlying hardware or software for a system. For example, the platform might be an Intel 80486 processor running DOS Version 6.0. The platform could also be UNIX machines on an Ethernet network.
 	</para>
@@ -1521,45 +1521,45 @@
 	<para>
 		The term cross-platform refers to applications, formats, or devices that work on different platforms. For example, a cross-platform programming environment enables a programmer to develop programs for many platforms at once.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>please</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>please</glossterm><glossdef>
 	<para>
 		Do not use. Instead of saying ‘Please refer to the Getting Started Guide,’ use ‘Refer to the Getting Started Guide’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>plug-in</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>plug-in</glossterm><glossdef>
 	<para>
 		Correct. Do not use "plugin".
 	</para>
 	<para>
 		A hardware or software module that adds a specific feature or service to a larger system. For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>p.m.</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>p.m.</glossterm><glossdef>
 	<para>
 		Refer to a.m.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>pop-up</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>pop-up</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘popup’ or ‘Pop-up’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>PowerPC</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>PowerPC</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘PPC’, ‘P-PC’ or variations thereof.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>POSIX</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>POSIX</glossterm><glossdef>
 	<para>
 		Correct. Do not use "Posix", "posix", or variations thereof.
 	</para>
 	<para>
 		An acronym for "Portable Operating System Interface for Unix".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>PPP</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>PPP</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘ppp’ or ‘Ppp’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>press</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>press</glossterm><glossdef>
 	<para>
 		Use for keyboard instructions. For example: ‘Press the Enter key’. For buttons, see click.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>protocol</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>protocol</glossterm><glossdef>
 	<para>
 		An agreed-upon format for transmitting data between two devices. The protocol determines the following:
 	</para>
@@ -1581,7 +1581,7 @@
 	<para>
 		From a user’s point of view, the only interesting aspect about protocols is that your computer or device must support the right ones if you want to communicate with other computers. The protocol can be implemented either in hardware or in software.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>proxy server</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>proxy server</glossterm><glossdef>
 	<para>
 		A server that sits between a client application, such as a web browser, and a real server. It intercepts all requests to the real server to see if it can fulfill the requests itself. If not, it forwards the request to the real server.
 	</para>
@@ -1594,22 +1594,22 @@
 	<listitem><para>
 		Filter Requests: Proxy servers can also be used to filter requests. For example, a company might use a proxy server to prevent its employees from accessing a specific set of websites.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>pseudo-ops</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>pseudo-ops</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘pseudo ops’ or ‘pseudoops’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>pulldown</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>pulldown</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘pull-down’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>PXE</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>PXE</glossterm><glossdef>
 	<para>
 		Short for Pre-Boot Execution Environment. Pronounced ‘pixie,’ PXE is one of the components of Intel’s WfM specification. It allows a workstation to boot from a server on a network prior to booting the operating system on the local hard drive. A PXE-enabled workstation connects its NIC to the LAN via a jumper, which keeps the workstation connected to the network even when the power is off. Because a network administrator does not have to physically visit the specific workstation and manually boot it, operating systems and other software, such as diagnostic programs, can be loaded onto the device from a server over the network.
 	</para>
 	<para>
 		PXE is a mandatory element of the WfM specification. To be considered compliant, the PXE must be supported by the computer’s BIOS and its NIC.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-Q"><title>Q</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-Q"><title>Q</title>
 	 <glossentry><glossterm>quiescent</glossterm><glossdef>
 	<para>
 		Do not use. This is a lofty-sounding word that just means at rest; quiet; still; inactive or motionless.
@@ -1623,81 +1623,81 @@
 	<para>
 		If a system is, or needs to be inactive, write inactive. If a system is, or needs to be safe, write safe.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-R"><title>R</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-R"><title>R</title>
 	 <glossentry><glossterm>RAM</glossterm><glossdef>
 	<para>
 		Correct. Do not use "Ram" or any other variations. This is an acronym for "random access memory".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>RAM disk</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>RAM disk</glossterm><glossdef>
 	<para>
 		Correct. Do not use "RAMdisk," "ramdisk," or "RAM-disk".
 	</para>
 	<para>
 		Refers to RAM that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>raw</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>raw</glossterm><glossdef>
 	<para>
 		Unprocessed. The term refers to data that is passed along to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device.
 	</para>
 	<para>
 		The term comes from UNIX, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill are processed by the device driver before being sent the output device.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>raw data</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>raw data</glossterm><glossdef>
 	<para>
 		Information that has not been organized, formatted, or analyzed.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>read</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>read</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		(v) To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. Also used to refer to the act of determining the contents of a variable or parameter.
 	</para></listitem>
 	<listitem><para>
 		(n) The act of reading. For example, a fast disk drive performs 100 reads per second.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>read-only</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>read-only</glossterm><glossdef>
 	<para>
 		Capable of being displayed, but not modified or deleted. All operating systems allow you to protect objects (disks, files, directories) with a read-only attribute that prevents other users from modifying the object.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>read/write</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>read/write</glossterm><glossdef>
 	<para>
 		Capable of being displayed (read) and modified (written to). Most objects (disks, files, directories) are read/write, but operating systems also allow you to protect objects with a read-only attribute that prevents other users from modifying the object.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>real time/real-time</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>real time/real-time</glossterm><glossdef>
 	<para>
 		Depends. If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March". If used as an adjective, "real-time" is appropriate. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor". 
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>reboot</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>reboot</glossterm><glossdef>
 	<para>
 		Correct. Do not use "re-boot".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>refer to</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>refer to</glossterm><glossdef>
 	<para>
 		Use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>remote access</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>remote access</glossterm><glossdef>
 	<para>
 		The ability to log onto a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. Whereas remote control refers to taking control of another computer, remote access means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>remote access server</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>remote access server</glossterm><glossdef>
 	<para>
 		A server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials into a network from home using an analog modem or an ISDN connection will dial into a remote access server. Once the user is authenticated they can access shared drives and printers as if they were physically connected to the office LAN.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>required</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>required</glossterm><glossdef>
 	<para>
 		See must.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>return</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>return</glossterm><glossdef>
 	<para>
 		When referring to the keyboard key on Solaris or Mac, use Returnor return, respectively. See enter for other platforms.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>right-click</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>right-click</glossterm><glossdef>
 	<para>
 		Correct. Do not use "right click".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>right now</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>right now</glossterm><glossdef>
 	<para>
 		Use "now" instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>ROM</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>ROM</glossterm><glossdef>
 	<para>
 		Acronym for read-only memory, computer memory on which data has been prerecorded. Once data has been written onto a ROM chip, it cannot be removed and can only be read.
 	</para>
@@ -1710,60 +1710,60 @@
 	<para>
 		A variation of a ROM is a PROM (programmable read-only memory). PROMs are manufactured as blank chips on which data can be written with a special device called a PROM programmer.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>RPM</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>RPM</glossterm><glossdef>
 	<para>
 		Initialism for the RPM Package Manager. RPM manages files in the RPM format, known as RPM packages, which can be installed with the ‘rpm’ command.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>runlevel</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>runlevel</glossterm><glossdef>
 	<para>
 		Correct. Do not use "run level" or "run-level".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>runtime</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>runtime</glossterm><glossdef>
 	<para>
 		Correct. Do not use "run time" or "run-time".
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-S"><title>S</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-S"><title>S</title>
 	<glossentry><glossterm>Samba</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘samba’ or ‘SAMBA’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>S-record</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>S-record</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘s-record’, ‘S-Record’, ’s-Record’, or any other variations.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>screenshot</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>screenshot</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘screen shot’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>screen saver</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>screen saver</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘screensaver’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>scrollbar</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>scrollbar</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘scroll bar’ or ‘scroll-bar’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>see</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>see</glossterm><glossdef>
 	<para>
 		Do not use if referring readers to another resource. Use "refer to" instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>select</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>select</glossterm><glossdef>
 	<para>
 		Use when referring to menu options. For example, ‘From the File menu, select Save’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>SELinux</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>SELinux</glossterm><glossdef>
 	<para>
 		Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. SELinux is, by dint of community use if not by formal declaration, the standard short-hand expression for delineating the project, its implementation and its effect (for both good and ill, at least from the user’s point of view). Alternatives, such as ‘SE-Linux’, ‘S-E Linux’ and ‘SE Linux’ should not be used.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>semicolon</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>semicolon</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘semi-colon’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>sends out</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>sends out</glossterm><glossdef>
 	<para>
 		Do not use. Instead, use ‘emits’ or ‘issues’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>server farm</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>server farm</glossterm><glossdef>
 	<para>
 		Also referred to as server cluster, computer farm or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup.
 	</para>
@@ -1773,147 +1773,147 @@
 	<para>
 		A web server farm, or web farm, refers to either a web site that runs off of more than one server or an ISP that provides web hosting services using multiple servers.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>server-side/server side</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>server-side/server side</glossterm><glossdef>
 	<para>
 		Careful here. For example: SMB is a server-side service used to provide file sharing to Windows clients. SMB runs on the server side of a client/server Samba implementation. See client-side/client side.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>setup/set up</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>setup/set up</glossterm><glossdef>
 	<para>
 		"Setup’ is a noun. ‘Set up’ is a verb.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>shadow passwords</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>shadow passwords</glossterm><glossdef>
 	<para>
 		Not a proper noun, so capitalize ‘Shadow’ at the beginning of a sentence only.
 	</para>
 	<para>
 		Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in /etc/passwd) to /etc/shadow, which is readable only by root. This option is available during installation and is part of the shadow utilities package.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>shadow utilities</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>shadow utilities</glossterm><glossdef>
 	<para>
 		Not a proper noun, so capitalize ‘Shadow’ at the beginning of a sentence only.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>share name</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>share name</glossterm><glossdef>
 	<para>
 		Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as "smbclient -L".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>shell</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>shell</glossterm><glossdef>
 	<para>
 		A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe where to type commands. Use ‘shell prompt’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>shell prompt</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>shell prompt</glossterm><glossdef>
 	<para>
 		Correct. Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use ‘command prompt,’ ‘terminal,’ or ‘shell’..
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>should</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>should</glossterm><glossdef>
 	<para>
 		Do not use if it is something the user must do. For example, ’You should make a backup’ is a suggestion, while ’You must make a backup’ is a requirement.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>shut down</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>shut down</glossterm><glossdef>
 	<para>
 		Correct. Do not use "shut-down". Only use "shutdown" when referring to the system command, /sbin/shutdown.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>simply</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>simply</glossterm><glossdef>
 	<para>
 		Do not use. See basically.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>since or because</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>since or because</glossterm><glossdef>
 	<para>
 		Do not use "since" to mean "because", it is ambiguous. Use "because" to refer to a reason. Use "since" to refer to the passage of time.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>smart card</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>smart card</glossterm><glossdef>
 	<para>
 		Correct. Do not use smartcard or smart-card.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>snippet</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>snippet</glossterm><glossdef>
 	<para>
 		Do not use snippet or tidbit to refer to short or small sections of information. Use "piece" instead. Use "excerpt" to refer to samples taken from a more extensive section of text.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>SOCKS</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>SOCKS</glossterm><glossdef>
 	<para>
 		Correct. Do not use "socks". When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>softcopy</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>softcopy</glossterm><glossdef>
 	<para>
 		Do not use. Instead, use ‘online’. For example, ‘To view the online documentation…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>sound card</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>sound card</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘soundcard’ or ‘sound-card’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>space</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>space</glossterm><glossdef>
 	<para>
 		Use when referring to white space, such as ‘Ensure there is a space between each command’. Use ‘Spacebar’ when referring to the keyboard key.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Spacebar</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Spacebar</glossterm><glossdef>
 	<para>
 		Use when referring to the keyboard key, such as ‘Press the Spacebar key to continue’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>spec file</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>spec file</glossterm><glossdef>
 	<para>
 		Correct. When referring to the RPM spec file, do not use ‘specfile’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>specific</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>specific</glossterm><glossdef>
 	<para>
 		When used as a modifier, put a hyphen before specific, such as "MIPS-specific", "Linux-specific", and "chip-specific".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>spelt</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>spelt</glossterm><glossdef>
 	<para>
 		Incorrect. Use "spelled" instead.
 	</para>
 	<para>
 		"Spelt" is the standard spelling in Commonwealth English but US English prefers "spelled", although "spelt" is occasionally seen in US English.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>SSH</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>SSH</glossterm><glossdef>
 	<para>
 		Short for Secure Shell, a network protocol that allows data exchange using a secure channel. Do not use "ssh", "Ssh", or other variants.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>SSL</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>SSL</glossterm><glossdef>
 	<para>
 		Short for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents via the Internet. SSL works by using a public key to encrypt data that’s transferred over the SSL connection. Both Netscape
 	</para>
 	<para>
 		Navigator and Internet Explorer support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>standalone</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>standalone</glossterm><glossdef>
 	<para>
 		Correct. Do not use "stand alone" or "stand-alone".
 	</para>
 	<para>
 		Refers to a device that is self-contained, one that does not require any other devices to function. For example, a fax machine is a standalone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a standalone device because it requires a computer to feed it data.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>starts up</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>starts up</glossterm><glossdef>
 	<para>
 		Do not use. Instead, use ‘activates’ or ‘invokes’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>startx</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>startx</glossterm><glossdef>
 	<para>
 		Correct. Do not use StartX or other variants.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>su</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>su</glossterm><glossdef>
 	<para>
 		Correct. Do not use SU (all caps).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>subdirectory</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>subdirectory</glossterm><glossdef>
 	<para>
 		Correct. Do not use sub-directory.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>submenu</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>submenu</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘sub-menu’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>superuser</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>superuser</glossterm><glossdef>
 	<para>
 		A synonym for root. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use ‘super user’ or ‘super-user’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>swap space</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>swap space</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘swapspace’. If starting the beginning of a sentence, ‘Swap space’ is allowed.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>symmetric encryption</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>symmetric encryption</glossterm><glossdef>
 	<para>
 		A type of encryption where the same key is used to encrypt and decrypt the message. This differs from asymmetric (or public-key) encryption, which uses one key to encrypt a message and another to decrypt the message.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-T"><title>T</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-T"><title>T</title>
 	 <glossentry><glossterm>TCP</glossterm><glossdef>
 	<para>
 		Abbreviation of Transmission Control Protocol, and pronounced as separate letters. TCP is one of the main protocols used for the transport (layer 4 in the OSI model) in modern networks (the other major protocol is UDP). IP (layer
@@ -1921,27 +1921,27 @@
 	<para>
 		3 by the OSI model) is the protocol which deals only with packets, TCP allows two hosts to establish a two way connection and exchange streams of data. TCP guarantees delivery of data and sorts packets so they appear to be delivered in the same order in which they were sent.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>TCP/IP</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>TCP/IP</glossterm><glossdef>
 	<para>
 		Abbreviation for Transmission Control Protocol/Internet Protocol, the suite of communications protocols used to connect hosts on the Internet. TCP/IP uses several protocols, the two main ones being TCP and IP. TCP/IP is built into the UNIX operating system and is used by the Internet, making it the de facto standard for transmitting data over networks. Even network operating systems that have their own protocols, such as Netware, also support TCP/IP.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>taskbar</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>taskbar</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘task bar’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>tar</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>tar</glossterm><glossdef>
 	<para>
 		Correct. ‘gtar’, ’guntar’, and ‘untar’ are also acceptable. Do not use ‘TAR’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>telephone numbers</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>telephone numbers</glossterm><glossdef>
 	<para>
 		Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Telnet</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Telnet</glossterm><glossdef>
 	<para>
 		Telnet is always capitalized. It is a terminal emulation program for TCP/IP networks.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>terminal</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>terminal</glossterm><glossdef>
 	<para>
 		Do not use to describe where to type commands. Use ‘command line’ instead.
 	</para>
@@ -1954,19 +1954,19 @@
 	<listitem><para>
 		In networking, a terminal is a personal computer or workstation connected to a mainframe. The personal computer usually runs terminal emulation software that makes the mainframe think it is like any other mainframe terminal.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>terminal emulation</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>terminal emulation</glossterm><glossdef>
 	<para>
 		Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>terminal window</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>terminal window</glossterm><glossdef>
 	<para>
 		Do not use to describe where to type commands. Use ‘shell prompt’ instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>terminate</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>terminate</glossterm><glossdef>
 	<para>
 		If a Windows procedure is being terminated, use ‘terminate’. For example ‘To terminate the procedure, press the Q key’. See kill for UNIX commands.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>text mode</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>text mode</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘textmode’ or ‘text-mode’.
 	</para>
@@ -1979,11 +1979,11 @@
 	<para>
 		Whereas character-based programs run in text mode, all graphics-based programs run in graphics mode.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>text-based</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>text-based</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘text based’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>that/which</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>that/which</glossterm><glossdef>
 	<para>
 		‘That’ introduces a restrictive clause — a clause that must be there for the sentence to make sense. A restrictive clause often defines the noun or phrase preceding it.
 	</para>
@@ -1996,23 +1996,23 @@
 	<para>
 		Use ‘who’ or ‘whom,’ rather than ‘that’ or ‘which,’ when referring to a person.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>then/than</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>then/than</glossterm><glossdef>
 	<para>
 		‘Then’ refers to a time in the past or the next step in a sequence. ‘Than’ is used for comparisons.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>third-party</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>third-party</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘third party’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>this</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>this</glossterm><glossdef>
 	<para>
 		The word ‘this’ can be used as an adjective or a pronoun. If you use it as a pronoun, be clear what the antecedent is. If it is unclear, use the adjective form by following ‘this’ with a noun.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>this is a feature, not a bug</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>this is a feature, not a bug</glossterm><glossdef>
 	<para>
 		Do not use. Instead, explain why and where the operation is useful, and where the operation may cause unwanted results.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>three-tier</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>three-tier</glossterm><glossdef>
 	<para>
 		A special type of client/server architecture consisting of three well-defined and separate processes, each running on a different platform:
 	</para>
@@ -2034,23 +2034,23 @@
 	<listitem><para>
 		Separating the application functions from the database functions makes it easier to implement load balancing.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>through</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>through</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘thru’ and do not use the hyphen (-), em-dash (—), en-dash (–) or any other dash.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>throughput</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>throughput</glossterm><glossdef>
 	<para>
 		The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughputs are measured in kbps, Mbps and Gbps.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>time zone</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>time zone</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘timezone’ or ‘time-zone’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>timeout</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>timeout</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘time out’ or ‘time-out’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>token</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>token</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		In programming languages, a single element of a programming language. For example, a token could be a keyword, an operator, or a punctuation mark.
 	</para></listitem>
@@ -2060,57 +2060,57 @@
 	<listitem><para>
 		In security systems, a small device the size of a credit card that displays a constantly changing ID code. A user first enters a password and then the card displays an ID that can be used to log into a network. Typically, the IDs change every 5 minutes or so.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>token-ring</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>token-ring</glossterm><glossdef>
 	<itemizedlist><listitem><para>
 		A type of computer network in which all the computers are arranged (schematically) in a circle. A token, which is a special bit pattern, travels around the circle. To send a message, a computer catches the token, attaches a message to it, and then lets it continue to travel around the network.
 	</para></listitem>
 	<listitem><para>
 		When capitalized, Token Ring refers to the PC network architecture developed by IBM. The IBM Token-Ring specification has been standardized by the IEEE as the IEEE 802.5 standard.
 	</para></listitem></itemizedlist>
-	</glossdef></glossentry><glossentry><glossterm>toolbar</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>toolbar</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘tool bar’ or ‘tool-bar’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>totally</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>totally</glossterm><glossdef>
 	<para>
 		Do not use. See basically.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>traffic</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>traffic</glossterm><glossdef>
 	<para>
 		The load on a communications device or system. One of the principal jobs of a system administrator is to monitor traffic levels and take appropriate actions when traffic becomes heavy.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>troubleshoot</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>troubleshoot</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘trouble shoot’ or ‘trouble-shoot’.
 	</para>
 	<para>
 		To isolate the source of a problem and fix it. In the case of computer systems, the term troubleshoot is usually used when the problem is suspected to be hardware -related. If the problem is known to be in software, the term debug is more commonly used.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>truly</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>truly</glossterm><glossdef>
 	<para>
 		Do not use. See basically.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>try and</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>try and</glossterm><glossdef>
 	<para>
 		Do not use. Use "try to" instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>two-tier</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>two-tier</glossterm><glossdef>
 	<para>
 		Refers to client/server architectures in which the user interface runs on the client and the database is stored on the server. The actual application logic can run on either the client or the server. A newer client/server architecture, called a three-tier architecture introduces a middle tier for the application logic.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>type</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>type</glossterm><glossdef>
 	<para>
 		Type can be used as either a verb or noun. You can say ‘Print the data type of init’ or ‘To start Source-Navigator, type snavigator’.
 	</para>
 	<para>
 		Sometimes multi-field dialog boxes do not allow the user to press Enter to move between fields. In these cases, you need to state ‘press Enter’ at the end of the sentence, such as ‘Type in the name, address, town, and then press Enter’. See enter for information on single-field dialog boxes.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-U"><title>U</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-U"><title>U</title>
 	 <glossentry><glossterm>UID</glossterm><glossdef>
 	<para>
 		UID and User ID are abbreviations of user identifier. Do not use "uid".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Unset</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Unset</glossterm><glossdef>
 	<para>
 		Incorrect. Use "Clear" instead.
 	</para>
@@ -2120,69 +2120,69 @@
 	<para>
 		This rule only matches TCP packets that have the SYN flag set and the ACK flag cleared.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>upgrade</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>upgrade</glossterm><glossdef>
 	<para>
 		Correct. Do not use "up-grade" or "up grade".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>UPS</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>UPS</glossterm><glossdef>
 	<para>
 		Abbreviation of uninterruptable power supply, a power supply that includes a battery to maintain power in the event of a power outage.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>URLs</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>URLs</glossterm><glossdef>
 	<para>
 		Include http, ftp, or https at the beginning of URLs. Use http://www.redhat.com rather than www.redhat.com.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>usable</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>usable</glossterm><glossdef>
 	<para>
 		Correct. Do not use useable.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>user</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>user</glossterm><glossdef>
 	<para>
 		When referring to the reader, use "you" instead of "user". For example, "The user must..." is incorrect. Use "You must..." instead.
 	</para>
 	<para>
 		If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may wish to access your database".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>userid</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>userid</glossterm><glossdef>
 	<para>
 		Acceptable abbreviation of user identifier.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>user interface</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>user interface</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘user-interface’ or ‘userinterface’.
 	</para>
 	<para>
 		The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>username</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>username</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘user name’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>user space</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>user space</glossterm><glossdef>
 	<para>
 		Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space". Do not use "userspace".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>utilize</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>utilize</glossterm><glossdef>
 	<para>
 		Avoid this term. Write "use" instead.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-V"><title>V</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-V"><title>V</title>
 	 <glossentry><glossterm>VAR</glossterm><glossdef>
 	<para>
 		Acronym for value-added reseller. Same as OEM (original equipment manufacturer).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>verify</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>verify</glossterm><glossdef>
 	<para>
 		This means ‘to establish truth, accuracy, or reality’. For example, ‘Verify that the NFS server is responding before continuing’.
 	</para>
 	<para>
 		You may be able to use make sure or ensure instead.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>vi</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>vi</glossterm><glossdef>
 	<para>
 		Correct; use all lower-case letters. Do not use ‘VI’ (all caps).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>via</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>via</glossterm><glossdef>
 	<para>
 		"...In its use as a preposition meaning 'by way of' or 'passing through' it is the Latin ablative...Via can only be properly used of the route; to apply it to the means of transport is a vulgarism. The luggage is being sent via London, but not The luggage is being sent via rail; and still less May I send a message via you?" (Sir Ernest Gowers, Fowler's Second Edition, Revised)
 	</para>
@@ -2195,36 +2195,36 @@
 	<para>
 		The CPU and chipset manufacturer is VIA, not via.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Vim</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Vim</glossterm><glossdef>
 	<para>
 		Correct; Do not use ‘VIM’ (all caps) or ‘vim’ (all lowercase).
 	</para>
 	<para>
 		Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the ‘About’ text that appears when you launch the editor, the standard, Proper Noun-derived, mixed-case spelling has been in use since its release on the Amiga.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>video mode</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>video mode</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘video-mode’ or ‘videomode’.
 	</para>
 	<para>
 		The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>virtual console</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>virtual console</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘virtual-console’ or ‘Virtual Console’ for general use.
 	</para>
 	<para>
 		This can be abbreviated to ‘VC’ as long as the term has been introduced in that same content in its full version first, such as ‘A virtual console (also known as a VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously.’
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>virtual router</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>virtual router</glossterm><glossdef>
 	<para>
 		An abstract object managed by VRRP that acts as a default router for hosts on a shared LAN. It consists of a Virtual Router Identifier and a set of associated IP addresses across a common LAN.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>VPN</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>VPN</glossterm><glossdef>
 	<para>
 		Short for virtual private network, a network that is constructed by using public wires to connect nodes. For example, there are a number of systems that enable you to create networks using the Internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-W"><title>W</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-W"><title>W</title>
 	 <glossentry><glossterm>WAN</glossterm><glossdef>
 	<para>
 		A computer network that spans a relatively large geographical area. Typically, a WAN consists of two or more local-area networks (LANs).
@@ -2232,22 +2232,22 @@
 	<para>
 		Computers connected to a wide-area network are often connected through public networks, such as the telephone system. They can also be connected through leased lines or satellites. The largest WAN in existence is the Internet.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>WCA</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>WCA</glossterm><glossdef>
 	<para>
 		An abbreviation of "web clipping application", an application that allows users to extract static information from a web server and load that data onto a web-enabled PDA.
 	</para>
 	<para>
 		WCAs are also called "query applications".
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>want</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>want</glossterm><glossdef>
 	<para>
 		Correct. Use in preference to ‘wish’ or ‘would like’, or rewrite. For example, ‘If you want to use the debugger…’ could be rewritten much more simply as "To use the debugger..."
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>we suggest</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>we suggest</glossterm><glossdef>
 	<para>
 		Do not use. Use a more direct construction, or use "recommend". For example, instead of "We suggest that you make a backup of your data disk", write "Back up your data disk", or "It is recommended that you back up your data disk."
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>web</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>web</glossterm><glossdef>
 	<para>
 		Correct. Lowercase. Use this to describe the transmission of web pages on the internet. We are ahead of the curve of usage with our use of the common noun form instead of the proper noun form, ‘Web’.
 	</para>
@@ -2257,109 +2257,109 @@
 	<para>
 		Web servers using the HTTP protocol to serve web sites, use web. The result of this interaction is the web. The web is a service on the Internet. Use web to refer to HTTP traffic.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>web page</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>web page</glossterm><glossdef>
 	<para>
 		Correct. Use this in preference to the single-word alternative spelling: webpage.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>web server</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>web server</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘webserver’. For example, ‘The Apache HTTP Server is the default web server…’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>website</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>website</glossterm><glossdef>
 	<para>
 		This is now preferred to the older, two-word presentation: ‘web site’.
 	</para>
 	<para>
 		Unlike ‘web page’ vs ‘webpage’ (where the accepted standard spelling prefers the two-word version), this term has made the transition to a single-word form.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>which/that</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>which/that</glossterm><glossdef>
 	<para>
 		See that/which.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>white space</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>white space</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘whitespace’ or ‘white-space’. White space refers to areas of the page with nothing on them. This space is not necessarily colored white.
 	</para>
 	<para>
 		Appropriate use of white space enhances page layout and make information easier to find and understand.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>who/whom</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>who/whom</glossterm><glossdef>
 	<para>
 		Use the pronoun ‘who’ as a subject. Use the pronoun ‘whom’ as a direct object, an indirect object, or the object of a preposition.
 	</para>
 	<para>
 		For example: Who owns this? To whom does this belong?
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>wildcard</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>wildcard</glossterm><glossdef>
 	<para>
 		Correct. Do not use "wild-card", "wild card", or other variations.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>will</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>will</glossterm><glossdef>
 	<para>
 		Do not use future tense unless it is absolutely necessary. For example, do not write ‘The next section will describe the process in detail’. Instead, write ‘The next section describes the process in detail’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>Window Maker</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>Window Maker</glossterm><glossdef>
 	<para>
 		Correct. Do not combine into one word or hyphenate. This is a window manager for the X Window System.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>wish</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>wish</glossterm><glossdef>
 	<para>
 		Use ‘need’ instead of ‘desire’ and ‘wish’. Use ‘want’ when the reader’s actions are optional (that is, they may not ‘need’ something but may still ‘want’ something).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>workstation</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>workstation</glossterm><glossdef>
 	<para>
 		A type of computer used for engineering applications (CAD/CAM), desktop publishing, software development, and other types of applications that require a moderate amount of computing power and relatively high quality graphics capabilities.
 	</para>
 	<para>
 		In networking, workstation refers to any computer connected to a local-area network. It could be a workstation or a personal computer.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>World Wide Web</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>World Wide Web</glossterm><glossdef>
 	<para>
 		Correct. Capitalize each word. Abbreviate as ‘WWW’ or ‘web’. Note that this term is becoming archaic; use Internet or web.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>writable</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>writable</glossterm><glossdef>
 	<para>
 		Correct. Do not use writeable.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>write</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>write</glossterm><glossdef>
 	<para>
 		To copy data from main memory to a storage device, such as a disk.
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-X"><title>X</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-X"><title>X</title>
 	 <glossentry><glossterm>X</glossterm><glossdef>
 	<para>
 		An alternative reference to the X Window System. Do not use X by itself when referring to XEmacs.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>x86</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>x86</glossterm><glossdef>
 	<para>
 		Correct. Do not capitalize the ‘x’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>XEmacs</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>XEmacs</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘Xemacs’. Use ‘xemacs’ only when referring to a command, such as ‘To start XEmacs, type xemacs’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>xterm</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>xterm</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘Xterm’ unless the word is used at the beginning of a sentence.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>X Windows</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>X Windows</glossterm><glossdef>
 	<para>
 		Do not use. This is an incorrect reference to the X Window System (or X).
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>X Window System</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>X Window System</glossterm><glossdef>
 	<para>
 		Also referred to as X. When making multiple references to the X Window System, the complete reference must appear first, with shortened references following. For example, "Reinstalling the X Window System, or X, is not necessary if... To start an X session, from the shell prompt...".
 	</para>
-	</glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-Y"><title>Y</title>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv><glossdiv id="glos-Manual_for_Writers_and_Publishers-Word_Usage-Y"><title>Y</title>
 	 <glossentry><glossterm>you</glossterm><glossdef>
 	<para>
 		Correct. Do not use ‘I’, ‘he’, or ‘she’.
 	</para>
-	</glossdef></glossentry><glossentry><glossterm>you may</glossterm><glossdef>
+	<para role="attr">RH:1008</para></glossdef></glossentry><glossentry><glossterm>you may</glossterm><glossdef>
 	<para>
 		Avoid using this. For example, "you may" can be eliminated from the following: "You may double-click the desktop..."
 	</para>
-	</glossdef></glossentry> </glossdiv>
+	<para role="attr">RH:1008</para></glossdef></glossentry> </glossdiv>
 	</glossary>
 </chapter>
 

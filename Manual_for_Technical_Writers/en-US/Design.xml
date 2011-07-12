@@ -6,21 +6,21 @@
 <chapter id="chap-Manual_for_Writers_and_Publishers-Design">
 	<title>Design</title>
 	 <section id="sect-Manual_for_Writers_and_Publishers-Design-Heading_Styles">
-		<title>Heading Styles</title>
+		<title>Heading Styles</title><para role="attr">RH:1008</para>
 		<para>
 			[discussion of title case goes here]
 		</para>
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Design-Screenshots">
-		<title>Screenshots</title>
+		<title>Screenshots</title><para role="attr">RH:1008</para>
 		<para>
 			[guide to screenshots]
 		</para>
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Design-Diagrams">
-		<title>Diagrams</title>
+		<title>Diagrams</title><para role="attr">RH:1008</para>
 		<para>
 			[guide to drawing diagrams]
 		</para>	
@@ -28,7 +28,7 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Design-Example_Domain_References">
-		<title>Example Domain References</title>
+		<title>Example Domain References</title><para role="attr">RH:1008</para>
 		<para>
 			If you are showing an example that involves domain names, use the reserved top level DNS names: example.com, example.org, or example.net.
 		</para>
@@ -38,14 +38,14 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Design-Example_Computer_Output">
-		<title>Example Computer Output</title>
+		<title>Example Computer Output</title><para role="attr">RH:1008</para>
 		<para>
 			When showing example computer output (usually in screen tags), do you include the prompt or command (unless the command or prompt is the actually computer output you want to show).
 		</para>
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Design-Admonitions">
-		<title>Admonitions</title>
+		<title>Admonitions</title><para role="attr">RH:1008</para>
 		<para>
 			To bring a statement to the reader's attention, use an admonition. The admonitions available are note, tip, important, warning, and caution.
 		</para>
@@ -79,7 +79,7 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Design-Additional_Resources">
-		<title>Additional Resources</title>
+		<title>Additional Resources</title><para role="attr">RH:1008</para>
 		<para>
 			The Additional Resources section should be a sect1 and should be the last section in the chapter. Use the following style and titles, including sect2 titles. Each sect2 should contain an itemized list, and they should be listed in the following order: Installed Documentation, Useful Websites, Related Books.
 		</para>
@@ -191,7 +191,7 @@
 	</section>
 	
 	<section id="sect-Manual_for_Writers_and_Publishers-Design-Book_References">
-		<title>Book References</title>
+		<title>Book References</title><para role="attr">RH:1008</para>
 		<para>
 			When referencing a book, please use the following format:
 		</para>
